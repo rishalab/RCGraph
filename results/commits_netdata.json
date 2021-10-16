@@ -1,0 +1,4352 @@
+{
+    "commits": {
+        "e44de0168a3a5f3e8b0cce18029dd2171900eb65": {
+            "date": "2013-06-17 19:14:34",
+            "additions": [
+                {
+                    "Entity 1": "index.html",
+                    "Relationship": " set ",
+                    "Entity2": " interfaces",
+                    "Date": "2013-06-17 19:14:34",
+                    "Sha": "e44de0168a3a5f3e8b0cce18029dd2171900eb65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " instruct ",
+                    "Entity2": " it",
+                    "Date": "2013-06-17 19:14:34",
+                    "Sha": "e44de0168a3a5f3e8b0cce18029dd2171900eb65",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "0dd029354d6ab910c0c4349d727e454045aac4ca": {
+            "date": "2013-06-17 19:17:19",
+            "additions": [
+                {
+                    "Entity 1": "index.htmlSet",
+                    "Relationship": " is in ",
+                    "Entity2": " index.html",
+                    "Date": "2013-06-17 19:17:19",
+                    "Sha": "0dd029354d6ab910c0c4349d727e454045aac4ca",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "index.html",
+                    "Relationship": " set ",
+                    "Entity2": " interfaces",
+                    "Date": "2013-06-17 19:17:19",
+                    "Sha": "0dd029354d6ab910c0c4349d727e454045aac4ca",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " instruct ",
+                    "Entity2": " it",
+                    "Date": "2013-06-17 19:17:19",
+                    "Sha": "0dd029354d6ab910c0c4349d727e454045aac4ca",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "60 seconds",
+                    "Relationship": " create ",
+                    "Entity2": " json files",
+                    "Date": "2013-06-17 19:17:19",
+                    "Sha": "0dd029354d6ab910c0c4349d727e454045aac4ca",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "c564e87af57b0d0e97cd4e5332ff4adffbc7eaad": {
+            "date": "2013-06-17 19:25:50",
+            "additions": [
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " are ",
+                    "Entity2": " generated",
+                    "Date": "2013-06-17 19:25:50",
+                    "Sha": "c564e87af57b0d0e97cd4e5332ff4adffbc7eaad",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "1d4f3b087721222f83a39c285f9bf658e75f4736": {
+            "date": "2013-06-17 20:38:07",
+            "additions": [
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " using ",
+                    "Entity2": " Google Charts API",
+                    "Date": "2013-06-17 20:38:07",
+                    "Sha": "1d4f3b087721222f83a39c285f9bf658e75f4736",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "54af621b695b54975b8bb2224289d947c55ab8ac": {
+            "date": "2014-04-17 20:38:59",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "index.htmlSet",
+                    "Relationship": " is in ",
+                    "Entity2": " index.html",
+                    "Date": "2014-04-17 20:38:59",
+                    "Sha": "54af621b695b54975b8bb2224289d947c55ab8ac",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "70671ce38f7b2dfe3016ac1b816cfe645259aee5": {
+            "date": "2015-09-21 22:13:58",
+            "additions": [
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " are ",
+                    "Entity2": " generated",
+                    "Date": "2015-09-21 22:13:58",
+                    "Sha": "70671ce38f7b2dfe3016ac1b816cfe645259aee5",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " using ",
+                    "Entity2": " Google Charts API",
+                    "Date": "2015-09-21 22:13:58",
+                    "Sha": "70671ce38f7b2dfe3016ac1b816cfe645259aee5",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " using ",
+                    "Entity2": " Google Charts API.git clone https://github.com/ktsaou/netdata.git netdatacd netdataOnce",
+                    "Date": "2015-09-21 22:13:58",
+                    "Sha": "70671ce38f7b2dfe3016ac1b816cfe645259aee5",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " are ",
+                    "Entity2": " generated",
+                    "Date": "2015-09-21 22:13:58",
+                    "Sha": "70671ce38f7b2dfe3016ac1b816cfe645259aee5",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "fd1f86c8f5c6b513ebbca19a9f378be37873cdfe": {
+            "date": "2015-11-17 00:26:00",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " saves on ",
+                    "Entity2": " exit",
+                    "Date": "2015-11-17 00:26:00",
+                    "Sha": "fd1f86c8f5c6b513ebbca19a9f378be37873cdfe",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "84ff2f70f35747c38532c278e651f2bd730ef4b0": {
+            "date": "2015-12-20 17:46:57",
+            "additions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " see ",
+                    "Entity2": " it",
+                    "Date": "2015-12-20 17:46:57",
+                    "Sha": "84ff2f70f35747c38532c278e651f2bd730ef4b0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " see it in ",
+                    "Entity2": " action",
+                    "Date": "2015-12-20 17:46:57",
+                    "Sha": "84ff2f70f35747c38532c278e651f2bd730ef4b0",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " are ",
+                    "Entity2": " generated",
+                    "Date": "2015-12-20 17:46:57",
+                    "Sha": "84ff2f70f35747c38532c278e651f2bd730ef4b0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Graphs",
+                    "Relationship": " using ",
+                    "Entity2": " Google Charts API",
+                    "Date": "2015-12-20 17:46:57",
+                    "Sha": "84ff2f70f35747c38532c278e651f2bd730ef4b0",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "0b1fa45a1925c05b32e64117092fbee4f3c8af34": {
+            "date": "2016-01-14 22:40:24",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " saves on ",
+                    "Entity2": " exit",
+                    "Date": "2016-01-14 22:40:24",
+                    "Sha": "0b1fa45a1925c05b32e64117092fbee4f3c8af34",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "32ce2846c5cec069a6dfaa28f3e61bc69ee82197": {
+            "date": "2016-01-17 14:07:52",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " web server",
+                    "Date": "2016-01-17 14:07:52",
+                    "Sha": "32ce2846c5cec069a6dfaa28f3e61bc69ee82197",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " see ",
+                    "Entity2": " it",
+                    "Date": "2016-01-17 14:07:52",
+                    "Sha": "32ce2846c5cec069a6dfaa28f3e61bc69ee82197",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " see it in ",
+                    "Entity2": " action",
+                    "Date": "2016-01-17 14:07:52",
+                    "Sha": "32ce2846c5cec069a6dfaa28f3e61bc69ee82197",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " standalone",
+                    "Date": "2016-01-17 14:07:52",
+                    "Sha": "32ce2846c5cec069a6dfaa28f3e61bc69ee82197",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "8d1c338fc966e0bc1057f1bfc886712a6c2a494d": {
+            "date": "2018-03-27 20:47:40",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " remain ",
+                    "Entity2": " fully interactive",
+                    "Date": "2018-03-27 20:47:40",
+                    "Sha": "8d1c338fc966e0bc1057f1bfc886712a6c2a494d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " remain ",
+                    "Entity2": " interactive",
+                    "Date": "2018-03-27 20:47:40",
+                    "Sha": "8d1c338fc966e0bc1057f1bfc886712a6c2a494d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " can ",
+                    "Entity2": " can embedded on Atlassian Conflunce pages",
+                    "Date": "2018-03-27 20:47:40",
+                    "Sha": "8d1c338fc966e0bc1057f1bfc886712a6c2a494d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " can ",
+                    "Entity2": " can embedded on Conflunce pages",
+                    "Date": "2018-03-27 20:47:40",
+                    "Sha": "8d1c338fc966e0bc1057f1bfc886712a6c2a494d",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "d56a4ece381a71692e5cda351ae3ee4351e9fc28": {
+            "date": "2018-09-22 11:56:47",
+            "additions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-09-22 11:56:47",
+                    "Sha": "d56a4ece381a71692e5cda351ae3ee4351e9fc28",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-09-22 11:56:47",
+                    "Sha": "d56a4ece381a71692e5cda351ae3ee4351e9fc28",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "48dff615bb6ab9534da732e5cacfa3c25be93be4": {
+            "date": "2018-09-23 12:07:59",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its github organization",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project accessible",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " accessible",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its github organization",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project",
+                    "Date": "2018-09-23 12:07:59",
+                    "Sha": "48dff615bb6ab9534da732e5cacfa3c25be93be4",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1": {
+            "date": "2018-11-10 03:50:57",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " several thousands",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " thousands of metrics",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " several thousands of metrics per device",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " thousands",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " accessible",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project accessible",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " thousands of metrics per device",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " several thousands of metrics",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " accessible",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project accessible",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "## Interaction",
+                    "Relationship": " is with ",
+                    "Entity2": " netdataAfter installation",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2018-11-10 03:50:57",
+                    "Sha": "562f7ca449e1fe8b1fff62a75bdb16c30da3d3a1",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b": {
+            "date": "2018-11-11 13:20:43",
+            "additions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " page7",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " .4",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " Facebook page .3",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** robust ** application",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured statsd server",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " robust",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** ** application",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " https://twitter.com/linuxnetdata",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " same range on charts",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " thousands of metrics",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " several thousands of metrics",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " several thousands of metrics per device",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " thousands",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " several thousands",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " thousands of metrics per device",
+                    "Date": "2018-11-11 13:20:43",
+                    "Sha": "c8559ef6b712bfb9715e3c4ba4a402f352f9e26b",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b": {
+            "date": "2018-11-11 16:17:24",
+            "additions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " extremely optimized",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " has designed",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " learn from ",
+                    "Entity2": " iteration",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " So collects ",
+                    "Entity2": " everything",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " everything",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " optimized",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is extremely optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is extremely optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will use ",
+                    "Entity2": " CPU",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is extremely optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is extremely optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " So extremely optimized",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " So optimized",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-11 16:17:24",
+                    "Sha": "0c935fd0b5830fb4bdc90fd098dc1d1e81e1489b",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "10a919ccfa4a1c471ddc38d93f8ac057942db9ea": {
+            "date": "2018-11-12 02:56:44",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds of thousands",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "worksNetdata",
+                    "Relationship": " is ",
+                    "Entity2": " modular",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " * is used by ",
+                    "Entity2": " hundreds",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds of thousands of users",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "worksNetdata",
+                    "Relationship": " is ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " * used",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " * is used by ",
+                    "Entity2": " hundreds of thousands",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " * is used by ",
+                    "Entity2": " hundreds of thousands of users",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is extremely optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " optimized",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " page7",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is extremely optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** robust ** application",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " learn from ",
+                    "Entity2": " iteration",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** ** application",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " extremely optimized",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " collects ",
+                    "Entity2": " everything",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " robust",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " has designed",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " So optimized",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " So collects ",
+                    "Entity2": " everything",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will use ",
+                    "Entity2": " CPU",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is extremely optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is optimized ",
+                    "Entity2": " efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " So is optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is extremely optimized ",
+                    "Entity2": " very efficient",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " So extremely optimized",
+                    "Date": "2018-11-12 02:56:44",
+                    "Sha": "10a919ccfa4a1c471ddc38d93f8ac057942db9ea",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae": {
+            "date": "2018-11-12 20:34:59",
+            "additions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured statsd server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured statsd server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2018-11-12 20:34:59",
+                    "Sha": "3aae8f6c2ceea7f74cde61a2044aa50c5f252fae",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "185f6b34bbd6c53278a6cfa69381df39066cc5e2": {
+            "date": "2018-11-13 00:19:01",
+            "additions": [
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence.But",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " using ",
+                    "Entity2": " docker",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence as monitoring dashboard",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " https://twitter.com/linuxnetdata",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " .4",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " Facebook page .3",
+                    "Date": "2018-11-13 00:19:01",
+                    "Sha": "185f6b34bbd6c53278a6cfa69381df39066cc5e2",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0": {
+            "date": "2018-11-13 20:50:18",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2018-11-13 20:50:18",
+                    "Sha": "bbb2f5efc3b14eb17b0a787c2e407a20b81fb0f0",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "c74dce43a8348fd3172f9c84efe12a0c25454dc4": {
+            "date": "2018-11-14 00:43:02",
+            "additions": [
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Monitoring ",
+                    "Entity2": " Systems",
+                    "Date": "2018-11-14 00:43:02",
+                    "Sha": "c74dce43a8348fd3172f9c84efe12a0c25454dc4",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "473e3b6fef333900b7e3d9ee4634b35f6f5069c2": {
+            "date": "2019-01-29 17:57:29",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " Cloud Native Computing Foundation landscape",
+                    "Date": "2019-01-29 17:57:29",
+                    "Sha": "473e3b6fef333900b7e3d9ee4634b35f6f5069c2",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " Cloud Native Computing Foundation landscape",
+                    "Date": "2019-01-29 17:57:29",
+                    "Sha": "473e3b6fef333900b7e3d9ee4634b35f6f5069c2",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "f0bc01ddbdfcb948bb06cf05662b0901f297e59a": {
+            "date": "2019-04-23 11:20:00",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " free open-source software",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "InfographicThis",
+                    "Relationship": " is ",
+                    "Entity2": " level overview",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " accessible",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "InfographicThis",
+                    "Relationship": " is ",
+                    "Entity2": " high level overview",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project accessible",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "InfographicThis",
+                    "Relationship": " is ",
+                    "Entity2": " high",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " free open-source software",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project accessible",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " accessible",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its github organization",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project",
+                    "Date": "2019-04-23 11:20:00",
+                    "Sha": "f0bc01ddbdfcb948bb06cf05662b0901f297e59a",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "30c1fe15b7c46b9f947b7723dc74497a5198cc4e": {
+            "date": "2019-05-27 16:29:43",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " docker",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " docker container",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " step",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " compares ",
+                    "Entity2": " Netdata | others",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " of future is ",
+                    "Entity2": " https://blog.netdata.cloud/posts/netdata-cloud-announcement/",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " step into world",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " create ",
+                    "Entity2": " Netdata dashboards on Atlassian 's Confluence.You",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version of Helm chart for deployment to k8s cluster",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version of Helm chart",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence.You",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " monitoring ",
+                    "Entity2": " network interface aliases",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " create ",
+                    "Entity2": " Netdata dashboards on Atlassian 's Confluence.You",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated into",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " first step",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " first step into world of Kubernetes",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " first step into world",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version of Helm chart for deployment",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " step into world of Kubernetes",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " create ",
+                    "Entity2": " Netdata dashboards",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " compares | others to ",
+                    "Entity2": " solutions",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " compares | others to ",
+                    "Entity2": " other solutions",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence.You",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " compares ",
+                    "Entity2": " netdata | others",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " create ",
+                    "Entity2": " netdata dashboards on Atlassian 's Confluence.You",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " step into world of Kubernetes",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " compares | others to ",
+                    "Entity2": " other monitoring solutions",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " of future is ",
+                    "Entity2": " https://blog.netdata.cloud/posts/netdata-cloud-announcement/",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " first step",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " first step into world",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " monitoring ",
+                    "Entity2": " network interface aliases",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " create ",
+                    "Entity2": " netdata dashboards",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " step",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version of Helm chart for deployment to k8s cluster",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " step into world",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " compares ",
+                    "Entity2": " | others",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " create ",
+                    "Entity2": " netdata dashboards on Atlassian 's Confluence.You",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " is ",
+                    "Entity2": " GPLv3",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version of Helm chart for deployment",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " using ",
+                    "Entity2": " docker",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken ",
+                    "Entity2": " first step into world of Kubernetes",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " compares | others to ",
+                    "Entity2": " monitoring solutions",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " has taken step with ",
+                    "Entity2": " beta version of Helm chart",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive",
+                    "Date": "2019-05-27 16:29:43",
+                    "Sha": "30c1fe15b7c46b9f947b7723dc74497a5198cc4e",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "a268ecba5dbdfcd65e66e3ef14124deb815f76ad": {
+            "date": "2019-07-09 12:46:54",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now supports ",
+                    "Entity2": " SSL encryption",
+                    "Date": "2019-07-09 12:46:54",
+                    "Sha": "a268ecba5dbdfcd65e66e3ef14124deb815f76ad",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " SSL encryption",
+                    "Date": "2019-07-09 12:46:54",
+                    "Sha": "a268ecba5dbdfcd65e66e3ef14124deb815f76ad",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "API",
+                    "Relationship": " of command is ",
+                    "Entity2": " https://docs.netdata.cloud/web/api/health/#list-silencers",
+                    "Date": "2019-07-09 12:46:54",
+                    "Sha": "a268ecba5dbdfcd65e66e3ef14124deb815f76ad",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " to ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-07-09 12:46:54",
+                    "Sha": "a268ecba5dbdfcd65e66e3ef14124deb815f76ad",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "2167a4ac5282d1594a34c94c6201f07f2f71bbc2": {
+            "date": "2019-07-10 17:12:21",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " TLS encryption",
+                    "Date": "2019-07-10 17:12:21",
+                    "Sha": "2167a4ac5282d1594a34c94c6201f07f2f71bbc2",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now supports ",
+                    "Entity2": " SSL encryption",
+                    "Date": "2019-07-10 17:12:21",
+                    "Sha": "2167a4ac5282d1594a34c94c6201f07f2f71bbc2",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "fecc659376d67f66f483799929eeb962d7b5abd2": {
+            "date": "2019-07-12 12:38:20",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-07-12 12:38:20",
+                    "Sha": "fecc659376d67f66f483799929eeb962d7b5abd2",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-07-12 12:38:20",
+                    "Sha": "fecc659376d67f66f483799929eeb962d7b5abd2",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "a726c905bde122d6a03da9866efb51a2e3b526c2": {
+            "date": "2019-08-13 15:07:17",
+            "additions": [
+                {
+                    "Entity 1": "API",
+                    "Relationship": " of command is ",
+                    "Entity2": " https://docs.netdata.cloud/web/api/health/#list-silencers",
+                    "Date": "2019-08-13 15:07:17",
+                    "Sha": "a726c905bde122d6a03da9866efb51a2e3b526c2",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " to ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-08-13 15:07:17",
+                    "Sha": "a726c905bde122d6a03da9866efb51a2e3b526c2",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "API",
+                    "Relationship": " of command is ",
+                    "Entity2": " https://docs.netdata.cloud/web/api/health/#list-silencers",
+                    "Date": "2019-08-13 15:07:17",
+                    "Sha": "a726c905bde122d6a03da9866efb51a2e3b526c2",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "netdata",
+                    "Relationship": " to ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-08-13 15:07:17",
+                    "Sha": "a726c905bde122d6a03da9866efb51a2e3b526c2",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6262597923df989d4b9fc216f1645b006059da19": {
+            "date": "2019-08-14 08:03:40",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-14 08:03:40",
+                    "Sha": "6262597923df989d4b9fc216f1645b006059da19",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-14 08:03:40",
+                    "Sha": "6262597923df989d4b9fc216f1645b006059da19",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-14 08:03:40",
+                    "Sha": "6262597923df989d4b9fc216f1645b006059da19",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-14 08:03:40",
+                    "Sha": "6262597923df989d4b9fc216f1645b006059da19",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6": {
+            "date": "2019-08-15 11:06:39",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " same range on charts",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " monitoring ",
+                    "Entity2": " network interface aliases",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured statsd server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence as monitoring dashboard",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "API",
+                    "Relationship": " of command is ",
+                    "Entity2": " https://docs.netdata.cloud/web/api/health/#list-silencers",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " page8",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " monitoring ",
+                    "Entity2": " network interface aliases",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "API",
+                    "Relationship": " of command is ",
+                    "Entity2": " https://docs.netdata.cloud/web/api/health/#list-silencers",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " docker",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " same range on charts",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured statsd server",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence as monitoring dashboard",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " page8",
+                    "Date": "2019-08-15 11:06:39",
+                    "Sha": "f5006d51e8caf9148d393eb68d53dc9fcd28b7b6",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "f02a628e4dc00f7016f8310713edcd52b3cb909d": {
+            "date": "2019-09-12 17:01:22",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " to ",
+                    "Entity2": " auto-detection capabilities",
+                    "Date": "2019-09-12 17:01:22",
+                    "Sha": "f02a628e4dc00f7016f8310713edcd52b3cb909d",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "3ab354afc2f0285462e04926dfc67629ea9d21fc": {
+            "date": "2019-10-10 14:48:30",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " tarball",
+                    "Date": "2019-10-10 14:48:30",
+                    "Sha": "3ab354afc2f0285462e04926dfc67629ea9d21fc",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " previously-downloaded tarball",
+                    "Date": "2019-10-10 14:48:30",
+                    "Sha": "3ab354afc2f0285462e04926dfc67629ea9d21fc",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " auto-detection capabilities",
+                    "Date": "2019-10-10 14:48:30",
+                    "Sha": "3ab354afc2f0285462e04926dfc67629ea9d21fc",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "502d0b7bd1479bd7f57544854e8730adc5fe702b": {
+            "date": "2019-10-18 16:22:46",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can send notifications to ",
+                    "Entity2": " Google Hangouts Chat",
+                    "Date": "2019-10-18 16:22:46",
+                    "Sha": "502d0b7bd1479bd7f57544854e8730adc5fe702b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can now send notifications to ",
+                    "Entity2": " Google Hangouts Chat",
+                    "Date": "2019-10-18 16:22:46",
+                    "Sha": "502d0b7bd1479bd7f57544854e8730adc5fe702b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can now send ",
+                    "Entity2": " notifications",
+                    "Date": "2019-10-18 16:22:46",
+                    "Sha": "502d0b7bd1479bd7f57544854e8730adc5fe702b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can send notifications to ",
+                    "Entity2": " https://docs.netdata.cloud/health/notifications/hangouts/",
+                    "Date": "2019-10-18 16:22:46",
+                    "Sha": "502d0b7bd1479bd7f57544854e8730adc5fe702b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can send ",
+                    "Entity2": " notifications",
+                    "Date": "2019-10-18 16:22:46",
+                    "Sha": "502d0b7bd1479bd7f57544854e8730adc5fe702b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can now send notifications to ",
+                    "Entity2": " https://docs.netdata.cloud/health/notifications/hangouts/",
+                    "Date": "2019-10-18 16:22:46",
+                    "Sha": "502d0b7bd1479bd7f57544854e8730adc5fe702b",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "4207f1797ebaf295aa954858d27bfbbeacaf5081": {
+            "date": "2019-11-13 16:00:00",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-11-13 16:00:00",
+                    "Sha": "4207f1797ebaf295aa954858d27bfbbeacaf5081",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-11-13 16:00:00",
+                    "Sha": "4207f1797ebaf295aa954858d27bfbbeacaf5081",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-11-13 16:00:00",
+                    "Sha": "4207f1797ebaf295aa954858d27bfbbeacaf5081",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-11-13 16:00:00",
+                    "Sha": "4207f1797ebaf295aa954858d27bfbbeacaf5081",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "b99a614c9c2c84635adaf6cf01188c1014d8f71b": {
+            "date": "2019-11-28 03:03:10",
+            "additions": [
+                {
+                    "Entity 1": "Nginx",
+                    "Relationship": " is with ",
+                    "Entity2": " minimal configuration",
+                    "Date": "2019-11-28 03:03:10",
+                    "Sha": "b99a614c9c2c84635adaf6cf01188c1014d8f71b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " 's feature.We is ",
+                    "Entity2": " https://github.com/netdata/netdata/pull/7220",
+                    "Date": "2019-11-28 03:03:10",
+                    "Sha": "b99a614c9c2c84635adaf6cf01188c1014d8f71b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " via ",
+                    "Entity2": " amazing auto-detection feature.We",
+                    "Date": "2019-11-28 03:03:10",
+                    "Sha": "b99a614c9c2c84635adaf6cf01188c1014d8f71b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " internal web server",
+                    "Date": "2019-11-28 03:03:10",
+                    "Sha": "b99a614c9c2c84635adaf6cf01188c1014d8f71b",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "b09202ea3774a72d254ec396d53776ecbc2a8b86": {
+            "date": "2019-12-13 01:42:37",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " get ",
+                    "Entity2": " support13",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " same range on charts",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "GitHub",
+                    "Relationship": " has ",
+                    "Entity2": " issues",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is with ",
+                    "Entity2": " others",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated into",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive >",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " internal web serverprocesses HTTP requests",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " does ",
+                    "Entity2": " rest",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Gorewrite!We",
+                    "Relationship": " introduced ",
+                    "Entity2": " more ** cmocka unit testing ** to Netdata",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " **",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " licencing14",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Gorewrite!We",
+                    "Relationship": " introduced ",
+                    "Entity2": " ** cmocka unit testing ** to Netdata",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive >",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " auto-detection capabilities",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can now send notifications to ",
+                    "Entity2": " Google Hangouts Chat",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can now send notifications to ",
+                    "Entity2": " https://docs.netdata.cloud/health/notifications/hangouts/",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "additions_We",
+                    "Relationship": " have added ",
+                    "Entity2": " support for",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " internal web server",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " previously-downloaded tarball",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " same range on charts",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can send ",
+                    "Entity2": " notifications",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "additions_We",
+                    "Relationship": " have added ",
+                    "Entity2": " support",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can now send ",
+                    "Entity2": " notifications",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " free open-source software",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " its github organization",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can send notifications to ",
+                    "Entity2": " Google Hangouts Chat",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " open-source software",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " 's feature.We is ",
+                    "Entity2": " https://github.com/netdata/netdata/pull/7220",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated into",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " to ",
+                    "Entity2": " health monitoring",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Nginx",
+                    "Relationship": " is with ",
+                    "Entity2": " minimal configuration",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " monitoring ",
+                    "Entity2": " network interface aliases",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project accessible",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now supports ",
+                    "Entity2": " TLS encryption",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " firehol.org project",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " via ",
+                    "Entity2": " amazing auto-detection feature.We",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " TLS encryption",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " of future is ",
+                    "Entity2": " https://blog.netdata.cloud/posts/netdata-cloud-announcement/",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its github organization",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " now has ",
+                    "Entity2": " its own github organization",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " to ",
+                    "Entity2": " auto-detection capabilities",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " tarball",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "API",
+                    "Relationship": " of command is ",
+                    "Entity2": " https://docs.netdata.cloud/web/api/health/#list-silencers",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is in ",
+                    "Entity2": " page8",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " can send notifications to ",
+                    "Entity2": " https://docs.netdata.cloud/health/notifications/hangouts/",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " be ",
+                    "Entity2": " accessible",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive",
+                    "Date": "2019-12-13 01:42:37",
+                    "Sha": "b09202ea3774a72d254ec396d53776ecbc2a8b86",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "9bccf7afc97ff29e67a194df3bf10a219df01dcc": {
+            "date": "2020-01-08 08:44:44",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " to ",
+                    "Entity2": " future.More installation methods",
+                    "Date": "2020-01-08 08:44:44",
+                    "Sha": "9bccf7afc97ff29e67a194df3bf10a219df01dcc",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "ed0da165aa6152e2d0bf01707e0814bb2d620e65": {
+            "date": "2020-01-14 01:50:10",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used all over world",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used by hundreds of thousands of users all over world",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used all",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence as monitoring dashboard",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds of thousands",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used by hundreds of thousands all over world",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used by hundreds all over world",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used all by ",
+                    "Entity2": " hundreds of thousands of users",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " thesame range on charts",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used all by ",
+                    "Entity2": " hundreds of thousands",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " modular",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used all by ",
+                    "Entity2": " hundreds",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds of thousands of users",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated into",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " efficient",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " used",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used ",
+                    "Entity2": " all over world.Check",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence as monitoring dashboard",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used ",
+                    "Entity2": " all",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds of thousands of users",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " efficient",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " same range on charts",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated into",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is used by ",
+                    "Entity2": " hundreds of thousands",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " modular",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " are ",
+                    "Entity2": " integrated",
+                    "Date": "2020-01-14 01:50:10",
+                    "Sha": "ed0da165aa6152e2d0bf01707e0814bb2d620e65",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "64dbeb929e2437ba65e628e81a6f546b42dcd4fa": {
+            "date": "2020-02-11 13:24:28",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " **",
+                    "Date": "2020-02-11 13:24:28",
+                    "Sha": "64dbeb929e2437ba65e628e81a6f546b42dcd4fa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "aNetdata",
+                    "Relationship": " provides ",
+                    "Entity2": " **",
+                    "Date": "2020-02-11 13:24:28",
+                    "Sha": "64dbeb929e2437ba65e628e81a6f546b42dcd4fa",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "aNetdata",
+                    "Relationship": " provides ",
+                    "Entity2": " **",
+                    "Date": "2020-02-11 13:24:28",
+                    "Sha": "64dbeb929e2437ba65e628e81a6f546b42dcd4fa",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6430ad1211fb5b3274240276d6fb25840c2db979": {
+            "date": "2020-02-12 16:05:57",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured server",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " statsd server",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured statsd server",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " featured server",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fully featured statsd server",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " server",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Monitoring ",
+                    "Entity2": " Systems",
+                    "Date": "2020-02-12 16:05:57",
+                    "Sha": "6430ad1211fb5b3274240276d6fb25840c2db979",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "23f9bd56913f63f4e116d950bd787d5d23419153": {
+            "date": "2020-04-06 14:35:27",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** free open-source software",
+                    "Date": "2020-04-06 14:35:27",
+                    "Sha": "23f9bd56913f63f4e116d950bd787d5d23419153",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "d889f5413da56412ea27072120875074a1d4ae0f": {
+            "date": "2020-04-06 15:44:13",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " for ",
+                    "Entity2": " web server",
+                    "Date": "2020-04-06 15:44:13",
+                    "Sha": "d889f5413da56412ea27072120875074a1d4ae0f",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Gorewrite!We",
+                    "Relationship": " introduced ",
+                    "Entity2": " more ** cmocka unit testing ** to Netdata",
+                    "Date": "2020-04-06 15:44:13",
+                    "Sha": "d889f5413da56412ea27072120875074a1d4ae0f",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " internal web serverprocesses HTTP requests",
+                    "Date": "2020-04-06 15:44:13",
+                    "Sha": "d889f5413da56412ea27072120875074a1d4ae0f",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Gorewrite!We",
+                    "Relationship": " introduced ",
+                    "Entity2": " ** cmocka unit testing ** to Netdata",
+                    "Date": "2020-04-06 15:44:13",
+                    "Sha": "d889f5413da56412ea27072120875074a1d4ae0f",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "e2874320fc027f7ab51ab3e115d5b1889b8fd747": {
+            "date": "2020-04-13 12:42:22",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** free open-source software",
+                    "Date": "2020-04-13 12:42:22",
+                    "Sha": "e2874320fc027f7ab51ab3e115d5b1889b8fd747",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "983a26d1a2c110b35db252b4b79c3f03eb4eeb4b": {
+            "date": "2020-04-13 14:32:33",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " ** free open-source software",
+                    "Date": "2020-04-13 14:32:33",
+                    "Sha": "983a26d1a2c110b35db252b4b79c3f03eb4eeb4b",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "e99692f145f710930723081d2e5bbf8868be2080": {
+            "date": "2020-04-14 17:26:13",
+            "additions": [
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2020-04-14 17:26:13",
+                    "Sha": "e99692f145f710930723081d2e5bbf8868be2080",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " docker",
+                    "Date": "2020-04-14 17:26:13",
+                    "Sha": "e99692f145f710930723081d2e5bbf8868be2080",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2020-04-14 17:26:13",
+                    "Sha": "e99692f145f710930723081d2e5bbf8868be2080",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2020-04-14 17:26:13",
+                    "Sha": "e99692f145f710930723081d2e5bbf8868be2080",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2020-04-14 17:26:13",
+                    "Sha": "e99692f145f710930723081d2e5bbf8868be2080",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "f0bea608bbfeb6aa81f90bb497ab3c5735d80d4b": {
+            "date": "2020-05-13 14:01:10",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " for ",
+                    "Entity2": " web server",
+                    "Date": "2020-05-13 14:01:10",
+                    "Sha": "f0bea608bbfeb6aa81f90bb497ab3c5735d80d4b",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "9d712b513566f1f90f6031f16c25953c5d836891": {
+            "date": "2020-05-14 13:50:01",
+            "additions": [
+                {
+                    "Entity 1": "GIF",
+                    "Relationship": " showing ",
+                    "Entity2": " auso-scaling Yaxis",
+                    "Date": "2020-05-14 13:50:01",
+                    "Sha": "9d712b513566f1f90f6031f16c25953c5d836891",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "GIF",
+                    "Relationship": " showing ",
+                    "Entity2": " Yaxis",
+                    "Date": "2020-05-14 13:50:01",
+                    "Sha": "9d712b513566f1f90f6031f16c25953c5d836891",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "78ca668e50d88670f8aaf4d2434e325f705f975c": {
+            "date": "2020-06-04 14:12:48",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " open-source project",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " starred open-source project in Cloud Native ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " most starred open-source project",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fourth most starred open-source project in Cloud Native ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " most starred open-source project in Cloud ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fourth starred open-source project in Cloud Native ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fourth most starred open-source project in Cloud ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " open-source project in Cloud Native ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " most starred open-source project in Cloud Native ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fourth most starred open-source project",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " starred open-source project",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fourth starred open-source project",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " fourth starred open-source project in Cloud ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " open-source project in Cloud ComputingWant",
+                    "Date": "2020-06-04 14:12:48",
+                    "Sha": "78ca668e50d88670f8aaf4d2434e325f705f975c",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "cfd74bbb406fc118d58016f659fcab4a96de1da7": {
+            "date": "2020-07-31 12:47:00",
+            "additions": [
+                {
+                    "Entity 1": "analyzeNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " metrics",
+                    "Date": "2020-07-31 12:47:00",
+                    "Sha": "cfd74bbb406fc118d58016f659fcab4a96de1da7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " in ",
+                    "Entity2": " JSON parsingcode",
+                    "Date": "2020-07-31 12:47:00",
+                    "Sha": "cfd74bbb406fc118d58016f659fcab4a96de1da7",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "3a700ac4b9ab800e075acffeb551a547085f7dd8": {
+            "date": "2020-10-20 18:04:55",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " documentation",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " capabilities in https://learn.netda",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " of ",
+                    "Entity2": " corefunctionality",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health watchdog",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "GitHub",
+                    "Relationship": " has ",
+                    "Entity2": " issues",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " does ",
+                    "Entity2": " rest",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is with ",
+                    "Entity2": " others",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " also supports ",
+                    "Entity2": " **",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " using ",
+                    "Entity2": " docker",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " approach",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "GIF",
+                    "Relationship": " being ",
+                    "Entity2": " manipulated",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "GIF",
+                    "Relationship": " dragging ",
+                    "Entity2": " them",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " get ",
+                    "Entity2": " support13",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " licencing14",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " highly interactive >",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "GitHub",
+                    "Relationship": " has ",
+                    "Entity2": " issues",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " quite different approach to monitoring.Netdata",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " **",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " different approach to ",
+                    "Entity2": " monitoring.Netdata",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " approach to monitoring.Netdata",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " is ",
+                    "Entity2": " interactive >",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " different approach",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " quite different approach to ",
+                    "Entity2": " monitoring.Netdata",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " on ",
+                    "Entity2": " Confluence",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " does ",
+                    "Entity2": " rest",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " approach to ",
+                    "Entity2": " monitoring.Netdata",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " quite different approach",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " in ",
+                    "Entity2": " JSON parsingcode",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Atlassian",
+                    "Relationship": " has ",
+                    "Entity2": " Confluence as monitoring dashboard",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " health monitoring",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "analyzeNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " metrics",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " thesame range on charts",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " to ",
+                    "Entity2": " future.To",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " supports ",
+                    "Entity2": " **",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "NetdataNetdata",
+                    "Relationship": " has ",
+                    "Entity2": " different approach to monitoring.Netdata",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " will highlight ",
+                    "Entity2": " range on charts",
+                    "Date": "2020-10-20 18:04:55",
+                    "Sha": "3a700ac4b9ab800e075acffeb551a547085f7dd8",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "b3f5ae783587e94ceb278b4ee62e92d5e37db531": {
+            "date": "2020-12-22 22:11:47",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " has ",
+                    "Entity2": " documentation",
+                    "Date": "2020-12-22 22:11:47",
+                    "Sha": "b3f5ae783587e94ceb278b4ee62e92d5e37db531",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "44aabc6af56fe63c88d9f4f88d8c2c160cf9c74a": {
+            "date": "2021-01-07 15:41:03",
+            "additions": [
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " through ",
+                    "Entity2": " documentation",
+                    "Date": "2021-01-07 15:41:03",
+                    "Sha": "44aabc6af56fe63c88d9f4f88d8c2c160cf9c74a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Netdata",
+                    "Relationship": " 's documentation is ",
+                    "Entity2": " https://learn.netdata.cloud/docs",
+                    "Date": "2021-01-07 15:41:03",
+                    "Sha": "44aabc6af56fe63c88d9f4f88d8c2c160cf9c74a",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "8b744094388019122513eb83c6aaa21f335bfa2c": {
+            "date": "2021-04-15 16:27:10",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "GitHub",
+                    "Relationship": " has ",
+                    "Entity2": " issues",
+                    "Date": "2021-04-15 16:27:10",
+                    "Sha": "8b744094388019122513eb83c6aaa21f335bfa2c",
+                    "Change": "deletion"
+                }
+            ]
+        }
+    }
+}

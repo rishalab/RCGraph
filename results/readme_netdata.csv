@@ -1,0 +1,4 @@
+Entity 1,Relationship,Entity2
+1,2,4
+Netdata, has , health watchdog
+Netdata, does , rest

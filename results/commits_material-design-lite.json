@@ -1,0 +1,949 @@
+{
+    "commits": {
+        "06196a80ffb3458a878833a8d396fd3998b6012e": {
+            "date": "2014-04-07 09:24:30",
+            "additions": [
+                {
+                    "Entity 1": "## ContributingAnyone",
+                    "Relationship": " welcome ",
+                    "Entity2": " everyone",
+                    "Date": "2014-04-07 09:24:30",
+                    "Sha": "06196a80ffb3458a878833a8d396fd3998b6012e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "## DocumentationTake",
+                    "Relationship": " look at ",
+                    "Entity2": " documentation table",
+                    "Date": "2014-04-07 09:24:30",
+                    "Sha": "06196a80ffb3458a878833a8d396fd3998b6012e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "## ContributingAnyone",
+                    "Relationship": " is ",
+                    "Entity2": " welcome",
+                    "Date": "2014-04-07 09:24:30",
+                    "Sha": "06196a80ffb3458a878833a8d396fd3998b6012e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "## ContributingAnyone",
+                    "Relationship": " contribute ",
+                    "Entity2": " everyone",
+                    "Date": "2014-04-07 09:24:30",
+                    "Sha": "06196a80ffb3458a878833a8d396fd3998b6012e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "## DocumentationTake",
+                    "Relationship": " look at ",
+                    "Entity2": " documentation table of contents",
+                    "Date": "2014-04-07 09:24:30",
+                    "Sha": "06196a80ffb3458a878833a8d396fd3998b6012e",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "e5737f204449bcfa77d76c2a29b6a36cf2770274": {
+            "date": "2014-04-07 09:39:00",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "## ContributingAnyone",
+                    "Relationship": " contribute ",
+                    "Entity2": " everyone",
+                    "Date": "2014-04-07 09:39:00",
+                    "Sha": "e5737f204449bcfa77d76c2a29b6a36cf2770274",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "## ContributingAnyone",
+                    "Relationship": " welcome ",
+                    "Entity2": " everyone",
+                    "Date": "2014-04-07 09:39:00",
+                    "Sha": "e5737f204449bcfa77d76c2a29b6a36cf2770274",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "## DocumentationTake",
+                    "Relationship": " look at ",
+                    "Entity2": " documentation table of contents",
+                    "Date": "2014-04-07 09:39:00",
+                    "Sha": "e5737f204449bcfa77d76c2a29b6a36cf2770274",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "## ContributingAnyone",
+                    "Relationship": " is ",
+                    "Entity2": " welcome",
+                    "Date": "2014-04-07 09:39:00",
+                    "Sha": "e5737f204449bcfa77d76c2a29b6a36cf2770274",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "## DocumentationTake",
+                    "Relationship": " look at ",
+                    "Entity2": " documentation table",
+                    "Date": "2014-04-07 09:39:00",
+                    "Sha": "e5737f204449bcfa77d76c2a29b6a36cf2770274",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "753e05122e0c42d75311b238188d9bfb7f963d35": {
+            "date": "2014-04-16 14:12:57",
+            "additions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Web Central team",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sushi have?Sushi",
+                    "Relationship": " ship with ",
+                    "Entity2": " experience",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### OverviewSushi",
+                    "Relationship": " is ",
+                    "Entity2": " starter kit",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### OverviewSushi",
+                    "Relationship": " is starter kit for ",
+                    "Entity2": " web development",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### OverviewSushi",
+                    "Relationship": " is ",
+                    "Entity2": " kit",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### OverviewSushi",
+                    "Relationship": " is kit for ",
+                    "Entity2": " web development",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### OverviewSushi",
+                    "Relationship": " is kit for ",
+                    "Entity2": " multi-screen web development",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### OverviewSushi",
+                    "Relationship": " is starter kit for ",
+                    "Entity2": " multi-screen web development",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sushi have?Sushi",
+                    "Relationship": " ship with ",
+                    "Entity2": " 60fps experience",
+                    "Date": "2014-04-16 14:12:57",
+                    "Sha": "753e05122e0c42d75311b238188d9bfb7f963d35",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "10ed4577f0bd1976f1fb58e0cc90467082b26281": {
+            "date": "2014-05-15 17:40:41",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "SushiSushi",
+                    "Relationship": " is ",
+                    "Entity2": " starter",
+                    "Date": "2014-05-15 17:40:41",
+                    "Sha": "10ed4577f0bd1976f1fb58e0cc90467082b26281",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sushi have?Sushi",
+                    "Relationship": " ship with ",
+                    "Entity2": " experience",
+                    "Date": "2014-05-15 17:40:41",
+                    "Sha": "10ed4577f0bd1976f1fb58e0cc90467082b26281",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sushi have?Sushi",
+                    "Relationship": " ship with ",
+                    "Entity2": " 60fps experience",
+                    "Date": "2014-05-15 17:40:41",
+                    "Sha": "10ed4577f0bd1976f1fb58e0cc90467082b26281",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6d71b075eefcea8525c4ce376414158266b5c61c": {
+            "date": "2014-05-27 09:27:36",
+            "additions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " 's Fundamentals is ",
+                    "Entity2": " developers.google.com/web/fundamentals",
+                    "Date": "2014-05-27 09:27:36",
+                    "Sha": "6d71b075eefcea8525c4ce376414158266b5c61c",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Web Fundamentals",
+                    "Date": "2014-05-27 09:27:36",
+                    "Sha": "6d71b075eefcea8525c4ce376414158266b5c61c",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Web Central team",
+                    "Date": "2014-05-27 09:27:36",
+                    "Sha": "6d71b075eefcea8525c4ce376414158266b5c61c",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "79f2eaafe1875dc68b59bbc24556e833127f4b02": {
+            "date": "2014-06-05 14:26:05",
+            "additions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Fundamentals",
+                    "Date": "2014-06-05 14:26:05",
+                    "Sha": "79f2eaafe1875dc68b59bbc24556e833127f4b02",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " 's Fundamentals is ",
+                    "Entity2": " developers.google.com/web/fundamentals",
+                    "Date": "2014-06-05 14:26:05",
+                    "Sha": "79f2eaafe1875dc68b59bbc24556e833127f4b02",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Web Fundamentals",
+                    "Date": "2014-06-05 14:26:05",
+                    "Sha": "79f2eaafe1875dc68b59bbc24556e833127f4b02",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " 's Fundamentals is ",
+                    "Entity2": " developers.google.com/web/fundamentals",
+                    "Date": "2014-06-05 14:26:05",
+                    "Sha": "79f2eaafe1875dc68b59bbc24556e833127f4b02",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6f5ea837bb3505dffe62dd60070768eadacefc3f": {
+            "date": "2014-06-12 16:23:11",
+            "additions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Fundamentals",
+                    "Date": "2014-06-12 16:23:11",
+                    "Sha": "6f5ea837bb3505dffe62dd60070768eadacefc3f",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " 's Fundamentals is ",
+                    "Entity2": " http://developers.google.com/web/fundamentals",
+                    "Date": "2014-06-12 16:23:11",
+                    "Sha": "6f5ea837bb3505dffe62dd60070768eadacefc3f",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Fundamentals",
+                    "Date": "2014-06-12 16:23:11",
+                    "Sha": "6f5ea837bb3505dffe62dd60070768eadacefc3f",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " 's Fundamentals is ",
+                    "Entity2": " developers.google.com/web/fundamentals",
+                    "Date": "2014-06-12 16:23:11",
+                    "Sha": "6f5ea837bb3505dffe62dd60070768eadacefc3f",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "738a6e25a11dc548e892510f9ce36250c6b06f67": {
+            "date": "2014-06-18 08:45:29",
+            "additions": [
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Using ",
+                    "Entity2": " Gulp",
+                    "Date": "2014-06-18 08:45:29",
+                    "Sha": "738a6e25a11dc548e892510f9ce36250c6b06f67",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "fef4d401797ffbc77b40f79bba094b0ab48c4eee": {
+            "date": "2014-06-18 08:54:50",
+            "additions": [
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " NodeJS.org",
+                    "Date": "2014-06-18 08:54:50",
+                    "Sha": "fef4d401797ffbc77b40f79bba094b0ab48c4eee",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " http://nodejs.org/",
+                    "Date": "2014-06-18 08:54:50",
+                    "Sha": "fef4d401797ffbc77b40f79bba094b0ab48c4eee",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "97dd724eec85ecda4ed1dafcae2f3d527ae76566": {
+            "date": "2014-06-18 09:02:53",
+            "additions": [
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions on Sass installation",
+                    "Date": "2014-06-18 09:02:53",
+                    "Sha": "97dd724eec85ecda4ed1dafcae2f3d527ae76566",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions",
+                    "Date": "2014-06-18 09:02:53",
+                    "Sha": "97dd724eec85ecda4ed1dafcae2f3d527ae76566",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions",
+                    "Date": "2014-06-18 09:02:53",
+                    "Sha": "97dd724eec85ecda4ed1dafcae2f3d527ae76566",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions on Sass installation",
+                    "Date": "2014-06-18 09:02:53",
+                    "Sha": "97dd724eec85ecda4ed1dafcae2f3d527ae76566",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " command-line instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-18 09:02:53",
+                    "Sha": "97dd724eec85ecda4ed1dafcae2f3d527ae76566",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-18 09:02:53",
+                    "Sha": "97dd724eec85ecda4ed1dafcae2f3d527ae76566",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "adc8ceb126577e514719a7077e8bcbabbf8b31e8": {
+            "date": "2014-06-18 09:07:20",
+            "additions": [
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions on Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " command-line instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Gulp",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions on Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions on Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " command-line instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions on Sass installation",
+                    "Date": "2014-06-18 09:07:20",
+                    "Sha": "adc8ceb126577e514719a7077e8bcbabbf8b31e8",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "99886fcac9de571dc744ae512a9511ff079e2e72": {
+            "date": "2014-06-19 12:54:24",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " by ",
+                    "Entity2": " Fundamentals",
+                    "Date": "2014-06-19 12:54:24",
+                    "Sha": "99886fcac9de571dc744ae512a9511ff079e2e72",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Google",
+                    "Relationship": " 's Fundamentals is ",
+                    "Entity2": " http://developers.google.com/web/fundamentals",
+                    "Date": "2014-06-19 12:54:24",
+                    "Sha": "99886fcac9de571dc744ae512a9511ff079e2e72",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "03e1f933f13fa4ea010c333f50c79d90e5f31b56": {
+            "date": "2014-06-19 18:28:57",
+            "additions": [
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " http://nodejs.org/",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions on Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions on Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " nodejs.org",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Gulp",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " command-line instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " command-line instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " NodeJS.org",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " http://nodejs.org/",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions on Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Gulp",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions on Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-06-19 18:28:57",
+                    "Sha": "03e1f933f13fa4ea010c333f50c79d90e5f31b56",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060": {
+            "date": "2014-08-26 16:54:17",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Gulp",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions on Sass installation",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " instructions",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " http://nodejs.org/",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " command-line instructions on ",
+                    "Entity2": " Sass installation",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " is ",
+                    "Entity2": " installed",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Sass",
+                    "Relationship": " see ",
+                    "Entity2": " command-line instructions on Sass installation",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Node",
+                    "Relationship": " go to ",
+                    "Entity2": " nodejs.org",
+                    "Date": "2014-08-26 16:54:17",
+                    "Sha": "2bcb2aa91d12c26d6c334dce16979ac8e3b1c060",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e": {
+            "date": "2015-04-16 13:55:28",
+            "additions": [
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their quasi-separategulp pipeline",
+                    "Date": "2015-04-16 13:55:28",
+                    "Sha": "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their own quasi-separategulp pipeline",
+                    "Date": "2015-04-16 13:55:28",
+                    "Sha": "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their pipeline",
+                    "Date": "2015-04-16 13:55:28",
+                    "Sha": "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " be ",
+                    "Entity2": " compiled",
+                    "Date": "2015-04-16 13:55:28",
+                    "Sha": "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their own pipeline",
+                    "Date": "2015-04-16 13:55:28",
+                    "Sha": "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " be compiled with ",
+                    "Entity2": " gulp templates",
+                    "Date": "2015-04-16 13:55:28",
+                    "Sha": "50f0d04321da6c528b4bc87b7f4fc60828ca1f1e",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "04c98a4bb4db96013c1824b341767c3d2f9e5419": {
+            "date": "2015-07-07 13:02:10",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their pipeline",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their own pipeline",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their own quasi-separategulp pipeline",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "###",
+                    "Relationship": " save ",
+                    "Entity2": " ### bower bower install",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " be compiled with ",
+                    "Entity2": " gulp templates",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "###",
+                    "Relationship": " save ",
+                    "Entity2": " material-design-lite ### bower bower install",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " have ",
+                    "Entity2": " their quasi-separategulp pipeline",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Templates",
+                    "Relationship": " be ",
+                    "Entity2": " compiled",
+                    "Date": "2015-07-07 13:02:10",
+                    "Sha": "04c98a4bb4db96013c1824b341767c3d2f9e5419",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "c0349de5e5d14bb9f5f3d7971086342cbfb86d52": {
+            "date": "2015-08-19 18:31:16",
+            "additions": [
+                {
+                    "Entity 1": "Thiscan",
+                    "Relationship": " be ",
+                    "Entity2": " achieved",
+                    "Date": "2015-08-19 18:31:16",
+                    "Sha": "c0349de5e5d14bb9f5f3d7971086342cbfb86d52",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "e6e8dfc844551ddd6bceed0f65589cf3b0d720c3": {
+            "date": "2016-07-01 15:50:29",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "MDL",
+                    "Relationship": " requires ",
+                    "Entity2": " NodeJS 0.12",
+                    "Date": "2016-07-01 15:50:29",
+                    "Sha": "e6e8dfc844551ddd6bceed0f65589cf3b0d720c3",
+                    "Change": "deletion"
+                }
+            ]
+        }
+    }
+}

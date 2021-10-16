@@ -1,0 +1,52 @@
+Entity 1,Relationship,Entity2,Date,Sha,Change
+TensorFlow, was originally developed by , researchers,2015-11-07 00:27:58,f41959ccb2d9d4c722fe8fc3351401d53bcf4900,addition
+TensorFlow, was , originally developed,2015-11-07 00:27:58,f41959ccb2d9d4c722fe8fc3351401d53bcf4900,addition
+TensorFlow, was , developed,2015-11-07 00:27:58,f41959ccb2d9d4c722fe8fc3351401d53bcf4900,addition
+TensorFlow, was developed by , researchers,2015-11-07 00:27:58,f41959ccb2d9d4c722fe8fc3351401d53bcf4900,addition
+TensorFlow, using , package,2015-11-07 18:49:41,7de9099a739c9dc62b1ca55c1eeef90acbfa7be9,addition
+TensorFlow, using , package,2015-11-09 03:23:41,d769a3fd306ad5be8e4a118b39394606e360101d,deletion
+###, Try , your first TensorFlow program,2016-02-17 20:56:41,fe056f0b5e52db86766761f5e6446a89c1aa3938,deletion
+###, Try , your TensorFlow program,2016-02-17 20:56:41,fe056f0b5e52db86766761f5e6446a89c1aa3938,deletion
+TensorFlow, includes , TensorBoard,2018-04-24 04:21:38,22f3a97b8b089202f60bb0c7697feb0c8e0713cc,addition
+TensorFlow, includes , TensorBoard,2018-06-23 00:43:06,6af6b3b1ea76d3e90227bcdda70dc845d00dc6fc,addition
+TensorFlow, includes , TensorBoard,2018-06-23 00:43:06,6af6b3b1ea76d3e90227bcdda70dc845d00dc6fc,deletion
+TensorFlow, provides , stable Python API,2018-08-02 07:59:56,33dd56457fc89598687609f7d0fb06b2c538da3a,addition
+TensorFlow, provides , Python API,2018-08-02 07:59:56,33dd56457fc89598687609f7d0fb06b2c538da3a,addition
+TensorFlow, provides , Python API,2018-08-10 20:30:41,f2384d1d898f139721222c8bf95256a2ac84d805,addition
+TensorFlow, provides , stable Python API,2018-08-10 20:30:41,f2384d1d898f139721222c8bf95256a2ac84d805,addition
+TensorFlow, includes , TensorBoard,2018-11-26 16:38:45,47c8db116582633cfd898d2fab19fc57922e6a67,addition
+TensorFlow, includes , TensorBoard,2018-11-26 16:38:45,47c8db116582633cfd898d2fab19fc57922e6a67,deletion
+TensorFlow, also includes , TensorBoard,2018-11-27 00:06:27,959f263c2d2e74dc9d8f9b3a98d238c681d51ac4,addition
+TensorFlow, includes , TensorBoard,2018-11-27 00:06:27,959f263c2d2e74dc9d8f9b3a98d238c681d51ac4,addition
+TensorFlow, also includes , TensorBoard,2018-11-27 00:06:27,959f263c2d2e74dc9d8f9b3a98d238c681d51ac4,deletion
+TensorFlow, includes , TensorBoard,2018-11-27 00:06:27,959f263c2d2e74dc9d8f9b3a98d238c681d51ac4,deletion
+TensorFlow, provides , Python,2019-02-01 04:47:02,037894c5e792ce546bdd012e265f27d85295cb25,addition
+TensorFlow, provides , stable Python API,2019-02-01 04:47:02,037894c5e792ce546bdd012e265f27d85295cb25,deletion
+TensorFlow, provides , Python API,2019-02-01 04:47:02,037894c5e792ce546bdd012e265f27d85295cb25,deletion
+TensorFlow, provides , Python,2019-02-01 22:55:53,2af9fe8670a9a241e78c8a0bb7bf9aca93036d24,addition
+TensorFlow, provides , stable Python API,2019-02-01 22:55:53,2af9fe8670a9a241e78c8a0bb7bf9aca93036d24,deletion
+TensorFlow, provides , Python API,2019-02-01 22:55:53,2af9fe8670a9a241e78c8a0bb7bf9aca93036d24,deletion
+TensorFlow, provides , Python,2019-03-01 00:22:03,90b572274a5f1499353f97093abfc7a40c93cd7c,addition
+TensorFlow, provides , Python API,2019-03-01 00:22:03,90b572274a5f1499353f97093abfc7a40c93cd7c,deletion
+TensorFlow, provides , stable Python API,2019-03-01 00:22:03,90b572274a5f1499353f97093abfc7a40c93cd7c,deletion
+PyPi, on project is , tf-nightly-gpu,2019-04-05 19:28:38,762d745521988e8a82118faedaf91a3fd50c6afa,addition
+PyPi, on project is , https://pypi.python.org/pypi/tf-nightly-gpu,2019-04-05 22:57:55,029ea5bda6c2b24f9f91b4c0be5842bd55c747f9,addition
+TensorFlow, offers , nightly pip packagesunder,2019-04-05 22:57:55,029ea5bda6c2b24f9f91b4c0be5842bd55c747f9,deletion
+TensorFlow, offers , pip packagesunder,2019-04-05 22:57:55,029ea5bda6c2b24f9f91b4c0be5842bd55c747f9,deletion
+TensorFlow, now offers , nightly pip packagesunder,2019-04-05 22:57:55,029ea5bda6c2b24f9f91b4c0be5842bd55c747f9,deletion
+TensorFlow, is , end-to-end,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,addition
+TensorFlow, is in , Practice from Coursera,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,addition
+TensorFlow, is , open source platformfor machine learning,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,addition
+TensorFlow, is , end-to-end open source platformfor machine learning,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,addition
+TensorFlow, is , end-to-end source platformfor machine learning,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,addition
+TensorFlow, is , source platformfor machine learning,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,addition
+TensorFlow, is in , Practice Specialization,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,deletion
+TensorFlow, also includes , TensorBoard,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,deletion
+TensorFlow, includes , TensorBoard,2019-08-12 20:59:00,dea3fa29672598fde0564e6a522d5f744aa83d9b,deletion
+TensorFlow, is , source platformfor machine learning,2019-08-13 00:02:24,6abe807ba7840670de0c9e35bf9b6faad9b0b18d,addition
+TensorFlow, is , end-to-end open source platformfor machine learning,2019-08-13 00:02:24,6abe807ba7840670de0c9e35bf9b6faad9b0b18d,addition
+TensorFlow, is , open source platformfor machine learning,2019-08-13 00:02:24,6abe807ba7840670de0c9e35bf9b6faad9b0b18d,addition
+TensorFlow, is , end-to-end source platformfor machine learning,2019-08-13 00:02:24,6abe807ba7840670de0c9e35bf9b6faad9b0b18d,addition
+TensorFlow, is in , Practice from Coursera,2019-08-13 00:02:24,6abe807ba7840670de0c9e35bf9b6faad9b0b18d,addition
+TensorFlow, is , end-to-end,2019-08-13 00:02:24,6abe807ba7840670de0c9e35bf9b6faad9b0b18d,addition
+ML, powered applications.Google Brain team within , Google 's Machine Intelligence Research organization forthe purposes,2019-11-13 19:13:21,8ba04796c27424e05f3239609e15cadbba5fba20,deletion

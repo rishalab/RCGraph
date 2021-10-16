@@ -1,0 +1,850 @@
+Entity 1,Relationship,Entity2,Date,Sha,Change
+API, build , your forms,2018-07-11 23:20:35,4aa9d6299c892f2e0ac11d413fa93a82aab0a387,addition
+API, build , your own forms,2018-07-11 23:20:35,4aa9d6299c892f2e0ac11d413fa93a82aab0a387,addition
+first, is , Input field,2018-07-11 23:20:35,4aa9d6299c892f2e0ac11d413fa93a82aab0a387,addition
+### UsingTo, is in , your code,2018-07-11 23:20:35,4aa9d6299c892f2e0ac11d413fa93a82aab0a387,addition
+FlexForm, with button is , value,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,addition
+fastIt, has , recipe for success done,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,addition
+Submit, types , Button,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+API, build , your forms,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, line , Cancel Button,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, line of , form_rows variable assignment,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, line , Button,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, last line of , form_rows assignment,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, last line , Cancel Button,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+API, build , your own forms,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, last line of , form_rows variable assignment,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, line of , form_rows assignment,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, last line , Button,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, types , Cancel Button,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+Submit, types of , input forms.The,2018-07-13 14:24:35,fe2a5b1dba000ca81d46f310b9bf503a22160f89,deletion
+MsgBox, look , last one,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,addition
+MsgBox, Take , moment,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,addition
+## Authors, ## , LicenseThis project,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,addition
+fastIt, has , recipe for success done,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,addition
+MsgBox, look at , that,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,addition
+API, build , your own forms,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,deletion
+MsgBox, look at , that,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,deletion
+MsgBox, look , last one,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,deletion
+MsgBox, Take , moment,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,deletion
+API, build , your forms,2018-07-13 14:45:55,46e56434a39bcd98d4683aa3da3a3126999e6f13,deletion
+fastIt, has , recipe for success done,2018-07-13 14:59:04,8177fde14e72544e89463ce75a789a3c43cc650c,addition
+MsgBox, Take , moment,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,addition
+API, build , your own forms,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,addition
+MsgBox, look at , that,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,addition
+API, build , your forms,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,addition
+MsgBox, look , last one,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,addition
+MsgBox, Take , moment,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,deletion
+fastIt, has , recipe for success done,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,deletion
+MsgBox, look at , that,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,deletion
+PySimpleGUI.PySimpleGUI, with , goal with API,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,deletion
+MsgBox, look , last one,2018-07-13 15:03:20,61b9ccb2283a9cc36f92657c5153245e3bea3489,deletion
+GUI, use row as , button,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+GUI, use , same row,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+First, is , determined,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+ThisRow, is , special,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+First, scanning , form,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FileBrowse, buttons , FolderBrowse,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+GUI, use , row,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FileBrowse, buttons , values,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FileBrowse, buttons values into , text input field,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FileBrowse, buttons , fill-in values,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FileBrowse, buttons values on , somewhere form,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FileBrowse, buttons values on , form,2018-07-14 00:11:50,b2d144bde8923627b972dc60383bd3daf9d7ba9a,addition
+FlexForm, is , created,2018-07-14 01:39:28,e9cbc4856f9bf06cf640ff836388f34b78c8e546,addition
+May, return to , tkinter progress meter solution,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+MsgBox, look at , that,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+MsgBox, look , last one,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+API, build , your own forms.PySimpleGUI,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+MsgBox, Take , moment,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+PySimpleGUI.PySimpleGUI, with , goal with API,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+May, return in , future,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+May, return to , native tkinter progress meter solution,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,addition
+MsgBox, look , last one,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,deletion
+MsgBox, Take , moment,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,deletion
+API, build , your forms,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,deletion
+MsgBox, look at , that,2018-07-16 00:13:41,c3ee62f29f31d9883a6cec969ba4641dd696008a,deletion
+GUI, having , customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, having , powerfully customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, frustrated , also powerfully customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, having , deal with dos,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, having , also powerfully customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, having , deal,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, frustrated , powerfully customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, was , frustrated,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, frustrated , also customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+GUI, having , also customizable.I,2018-07-16 18:52:16,0ec43ac11264815f4240e1d221994e921e205cd2,addition
+First, is , determined,2018-07-17 15:50:37,e2ee6bd9af8a77e19519b18f79bb9edc8c218066,addition
+First, scanning , form,2018-07-17 15:50:37,e2ee6bd9af8a77e19519b18f79bb9edc8c218066,addition
+First, is , determined,2018-07-17 15:50:37,e2ee6bd9af8a77e19519b18f79bb9edc8c218066,deletion
+First, scanning , form,2018-07-17 15:50:37,e2ee6bd9af8a77e19519b18f79bb9edc8c218066,deletion
+First, scanning , form,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, values into , text input field,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, values , FolderBrowse buttons,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, fill-in values on , form,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+API, build , your forms,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, fill-in values on , somewhere form,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, fill-in values into , text input field,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, fill-in values , FolderBrowse buttons,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, values on , form,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+FileBrowse, values on , somewhere form,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+First, is , determined,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+API, build , your own forms,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,addition
+SGI, having , deal with dos,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,deletion
+First, is , determined,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,deletion
+SGI, having , deal,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,deletion
+SGI, was , frustrated,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,deletion
+First, scanning , form,2018-07-23 14:18:59,fce4d45472743d5ced0cd1f9bbe877fd446518f4,deletion
+First, scanning , form,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,addition
+SGI, having , deal,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,addition
+SGI, having , deal with dos,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,addition
+First, is , determined,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,addition
+SGI, was , frustrated,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,addition
+FileBrowse, fill-in values on , form,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, fill-in values into , text input field,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+First, scanning , form,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, values on , somewhere form,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, fill-in values on , somewhere form,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, values into , text input field,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, values on , form,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+API, build , your own forms,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+First, is , determined,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, values , FolderBrowse buttons,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+FileBrowse, fill-in values , FolderBrowse buttons,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+API, build , your forms,2018-07-23 19:14:34,f3bee1687e568c6726d12f31329f2a0d0fd3a4dc,deletion
+SG, is with , SG.FlexForm,2018-07-24 04:05:01,b88483bb767522ae3ae497b016931c1611c17dfc,addition
+EasyPrint, include , Print,2018-07-24 04:05:01,b88483bb767522ae3ae497b016931c1611c17dfc,addition
+GUI Packages, is with , more functionality like QT,2018-07-24 04:05:01,b88483bb767522ae3ae497b016931c1611c17dfc,deletion
+Fixes, so can run on , Raspberry PiNew debug printing capability,2018-07-24 19:52:14,d9d548747b47ca7b0c1db6e94dd43f8aef228fc4,addition
+GUI, is with , custom buttons,2018-07-24 19:52:14,d9d548747b47ca7b0c1db6e94dd43f8aef228fc4,addition
+Fixes, can run on , Raspberry PiNew debug printing capability,2018-07-24 19:52:14,d9d548747b47ca7b0c1db6e94dd43f8aef228fc4,addition
+FlexForm, is , created,2018-07-24 21:44:23,13d99dcd75c385cf4c70a77c0cf673ba9b50334b,addition
+FlexForm, is , created,2018-07-24 21:44:23,13d99dcd75c385cf4c70a77c0cf673ba9b50334b,deletion
+GUI, is in , 30 lines of code,2018-07-26 23:53:17,60173f9b6c6846e213f7f0f535867c1823355efb,addition
+GUI, is with , custom buttons,2018-07-26 23:53:17,60173f9b6c6846e213f7f0f535867c1823355efb,addition
+Python, of , capabilities,2018-07-27 19:52:59,05caecc60009947319d2140ae2299fa70fe4c16c,addition
+Python, has , powerful list constructs,2018-07-27 19:52:59,05caecc60009947319d2140ae2299fa70fe4c16c,addition
+second, is list of , Elements for row,2018-07-28 18:41:56,e9ac588ab8edb7ae0019c5cd033797e7c66f6028,addition
+second, is , list,2018-07-28 18:41:56,e9ac588ab8edb7ae0019c5cd033797e7c66f6028,addition
+Python, of , interesting features,2018-07-30 14:12:12,bbc6a555f97c7e136573e01993e4a09bcf552aec,addition
+Python, has , lists,2018-07-30 14:12:12,bbc6a555f97c7e136573e01993e4a09bcf552aec,addition
+Python, has , powerful list constructs,2018-07-30 19:18:36,499433badd837ba294e843a1ab32b287fc801f96,addition
+Python, has , powerful list constructs,2018-07-30 19:18:36,499433badd837ba294e843a1ab32b287fc801f96,deletion
+Simple Button, has , 4 Realtime Buttons,2018-07-31 13:28:12,b41f65dc658338048491eea7a6141c4ce1382aac,addition
+SG, is with , SG.FlexForm,2018-08-03 22:40:54,089c6124b8c52ce8b8a082a2bcd118f2ac492275,deletion
+first, is , created,2018-08-08 16:42:58,90925af23ede07fe0dff455e872bb14e9a7c918c,addition
+first, is , when created,2018-08-08 16:42:58,90925af23ede07fe0dff455e872bb14e9a7c918c,addition
+Raspberry Pi, is with , touchscreen,2018-08-08 16:42:58,90925af23ede07fe0dff455e872bb14e9a7c918c,deletion
+COLUMN, is with , 7 rows,2018-08-16 15:01:28,db4bb742ff3fde4a7602f1db2b4db14a3d14e875,addition
+Columns, ' , blank form,2018-08-16 15:01:28,db4bb742ff3fde4a7602f1db2b4db14a3d14e875,addition
+Text Elements, is in , formThese Pre-made buttons,2018-08-21 22:56:10,5f2740055e560ab83a0140ff516dcee3f0ec0f40,addition
+First, is , determined,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,addition
+First, scanning , form,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,addition
+FileBrowse, password_char , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+First, is , determined,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, font , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, somewhere form , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, None , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, fill-in values , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, auto_size_text , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, values , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+FileBrowse, form , FolderBrowse,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+First, scanning , form,2018-08-26 00:48:06,d4f09d367d7867605cc3a070215df2aa20d6bb40,deletion
+Modifier, returned , keys,2018-08-29 14:28:03,292ba9754e8c76c5b03e6fe2393cff3163c254eb,addition
+Modifier, are returned as , string with 2 parts,2018-08-29 14:28:03,292ba9754e8c76c5b03e6fe2393cff3163c254eb,addition
+Modifier, are , returned,2018-08-29 14:28:03,292ba9754e8c76c5b03e6fe2393cff3163c254eb,addition
+Modifier, are returned as , string,2018-08-29 14:28:03,292ba9754e8c76c5b03e6fe2393cff3163c254eb,addition
+GUI, is with , as little,2018-08-29 14:28:03,292ba9754e8c76c5b03e6fe2393cff3163c254eb,addition
+Modifier, returned , special keys,2018-08-29 14:28:03,292ba9754e8c76c5b03e6fe2393cff3163c254eb,addition
+Popup, returns , string,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+Popup InputThere, are , Popup,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+PopupYesNo, shows pair on , them,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+Popup, calls , look,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+Popup, has , High level calls,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+PopupYesNo, shows , pair of button,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+PopupYesNo, shows , pair of button with Yes,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+PopupYesNo, shows , pair,2018-09-02 20:31:18,4e518e966767f34d5ac2ce4341722efcaa642c79,addition
+#### FlexForm, summary of , variables,2018-09-06 16:01:19,32a9dc79ce0944dfb7a9306bececaf2f1b72254e,deletion
+FlexForm, is created , default_element_size,2018-09-06 16:01:19,32a9dc79ce0944dfb7a9306bececaf2f1b72254e,deletion
+Color Chooser, grab windows on , on default,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,addition
+GUI, use row as , button,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,addition
+GUI, use , same row,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,addition
+Color Chooser, grab anywhere windows on , on default,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,addition
+GUI, use , row,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,addition
+GUI, use row as , button,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,deletion
+ThisRow, is , special,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,deletion
+GUI, use , row,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,deletion
+GUI, use , same row,2018-09-07 22:04:23,5a2aa66934a4889c738b19377f2cfdb65a0af4d1,deletion
+####, Exiting , FormTypically,2018-09-09 02:54:27,74bfa9bb149e9dfa70218e1af2d6b57dd08dcd74,addition
+####, Exiting , Non-Blocking FormTypically,2018-09-09 02:54:27,74bfa9bb149e9dfa70218e1af2d6b57dd08dcd74,addition
+Paste, has , cascading menu,2018-09-10 15:27:49,9f831a9f9c60da7c0ab6791d85e22c763f5d598c,addition
+Paste, has , menu,2018-09-10 15:27:49,9f831a9f9c60da7c0ab6791d85e22c763f5d598c,addition
+Event Loop, is In , Event Loop,2018-09-12 22:31:39,bb990fca051284a624395434f2a8b2dd5d8322f5,addition
+Event Loop, is In , Event Loop,2018-09-12 22:31:39,bb990fca051284a624395434f2a8b2dd5d8322f5,addition
+MsgBox, replaced with , Popup functions,2018-09-14 15:54:10,4f43f7bcafc7ce26cb995c341dae9ca0fb155527,addition
+May, return in , future,2018-09-15 19:44:57,90c5634ff83f92e8fceb3432e7d67454c95bea48,addition
+May, return to , native tkinter progress meter solution,2018-09-15 19:44:57,90c5634ff83f92e8fceb3432e7d67454c95bea48,addition
+May, return to , tkinter progress meter solution,2018-09-15 19:44:57,90c5634ff83f92e8fceb3432e7d67454c95bea48,addition
+May, return to , tkinter progress meter solution,2018-09-15 19:44:57,90c5634ff83f92e8fceb3432e7d67454c95bea48,deletion
+May, return in , future,2018-09-15 19:44:57,90c5634ff83f92e8fceb3432e7d67454c95bea48,deletion
+May, return to , native tkinter progress meter solution,2018-09-15 19:44:57,90c5634ff83f92e8fceb3432e7d67454c95bea48,deletion
+GUI API, will enable , Python,2018-09-15 20:24:57,30447c51730e9aab73c17aa9eea90d6fb67262db,addition
+Graph Figures, are , created,2018-09-21 18:02:16,84f229a4660014550eb52c54ec5fdedcf2a334de,addition
+Button, has , text2,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Button, has , key3,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Callbacks, can break apart , your program 's logic,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Read, can cause , Reads,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+GUI, use , row,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Target, is , specified,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Folders, ' button is , folder_path file_path,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Spinner, are on , left,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Callbacks, scatter , it,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+ListBoxes, can cause , form,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+GUI, use , same row,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+GUI, use row as , button,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Slider, has , input values,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Callbacks, can break , your program 's logic,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+Folders, ' , button,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+ListBoxes, return from , Read call,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,addition
+second, is , list,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,deletion
+GUI, use , row,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,deletion
+first, is , Input field,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,deletion
+GUI, use , same row,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,deletion
+GUI, use row as , button,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,deletion
+second, is list of , Elements for row,2018-09-22 17:52:08,39dfe7b462aabeff13af814245487fcf147a3c65,deletion
+GUI API, will enable , Python,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,addition
+GUI, is with , as little,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,addition
+Python, has , lists,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,addition
+Python, of , interesting features,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,addition
+GUI API, maybe will enable , Python,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,addition
+GUI API, will enable , Python,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,deletion
+Python, become , *** *** go-to language,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,deletion
+GUI, is with , as little,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,deletion
+Python, become , *** *** language,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,deletion
+Python, has , lists,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,deletion
+Python, of , interesting features,2018-09-23 17:48:37,9623ba8b99785342fa2ef70dfe9ba40eb7542beb,deletion
+Window, is with , Column containing,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing notice about all of container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+Frame, is in , exactly same way as Frame,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing notice,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+Tab, has , 1 Text Element in it,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, notice about , all of container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing notice about all container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can then placed into Window.Let 's look,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing notice about all container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can then placed into Window.Let 's look as example,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing notice,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing notice about all of container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can placed,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, notice , tab Group,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+Tab, has , 1 Text Element,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+Tab, has , Text,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can placed as example,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing notice about all container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing notice about all container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing notice about all of container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can then placed,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can placed into Window.Let 's look,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, notice about , all container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing notice,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can then placed as example,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One thing notice about all of container Elements,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+Tab, has , 1 Text Element in it,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, can , can placed into Window.Let 's look as example,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TabGroup, are , two Tab elements.One important thing notice,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+Tab, has , 1 Text Element,2018-09-25 05:33:32,8e541ec21c8d8e44495fd1eef79426f2a18f1591,addition
+TopLevel, get , window,2018-09-28 19:59:18,6cc8ed1ad1fbec5e4cc4eb913f0c0669a60a6845,addition
+Menu, is with , underlines,2018-09-30 04:46:14,bffdb1d9023c193b565b25679eb63bdf20709e3c,addition
+Tab, is , selected,2018-09-30 04:46:14,bffdb1d9023c193b565b25679eb63bdf20709e3c,addition
+Tab, is in , group,2018-09-30 04:46:14,bffdb1d9023c193b565b25679eb63bdf20709e3c,addition
+Callbacks, scatter , it,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,addition
+GUI, is defined as , series of Lists,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,addition
+GUI, is , defined,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,addition
+GUI, is defined as , series,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,addition
+Callbacks, can break apart , your program 's logic,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,deletion
+Callbacks, can break , your program 's logic,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,deletion
+Callbacks, scatter , it,2018-10-06 03:52:20,5b83e16202a6ca50b490b0f4ac1f93373eb47553,deletion
+Insert, is , called,2018-10-10 01:44:29,5d487bf5fe31cefcb32e70bc038755dd9d96e525,addition
+Popup InputThere, are , Popup,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,addition
+Popup InputThere, are , ## Popup,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,addition
+Popup, 's sg.Popup is , Popup,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,addition
+Popup InputThere, are , ## Popup,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,addition
+Popup, calls for , single-item inputs,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,addition
+Popup, calls for , inputs,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,addition
+Popup InputThere, are , Popup,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,deletion
+EasyPrint, include , Print,2018-10-12 05:33:52,43ca7ed8371d3c3a71bf7c1c2c666a1eedc94503,deletion
+####, FontSpecifies , font family size,2018-10-12 18:39:23,d7a624df11cfc52f33785a2afb0a9f232801d4ce,addition
+Window, stays , # Elements Keyboard Capture Menus,2018-10-12 18:39:23,d7a624df11cfc52f33785a2afb0a9f232801d4ce,addition
+Window, has , input values,2018-10-12 18:39:23,d7a624df11cfc52f33785a2afb0a9f232801d4ce,addition
+Window, stays , # Elements,2018-10-12 18:39:23,d7a624df11cfc52f33785a2afb0a9f232801d4ce,addition
+GUI, blocking on , your,2018-10-20 16:04:18,3c807be334bbfd7ea288e39f4fe86f6a95931057,addition
+Update CallThere, is , Update method,2018-10-20 16:04:18,3c807be334bbfd7ea288e39f4fe86f6a95931057,addition
+1, is , visible,2018-10-20 16:04:18,3c807be334bbfd7ea288e39f4fe86f6a95931057,addition
+1, is , fully visible,2018-10-20 16:04:18,3c807be334bbfd7ea288e39f4fe86f6a95931057,addition
+GUI, blocking on , your,2018-10-23 17:28:47,777520e998167cd07a1cd08f19d940b97feff11d,deletion
+Simple Button, has , 4 Realtime Buttons,2018-10-28 05:59:16,ac30f599b6192096335aeaab1e9791e95be11421,deletion
+Button, would CLOSE , window,2018-10-29 00:01:03,f60137c4b28616273df9a098a12bb43a36997299,addition
+GUI, is defined as , series,2018-10-31 16:16:27,f5f8f0e807c2f7fc036c91dd93d7f7d532101afa,addition
+GUI, is defined as , series of Lists,2018-10-31 16:16:27,f5f8f0e807c2f7fc036c91dd93d7f7d532101afa,addition
+GUI, is , defined,2018-10-31 16:16:27,f5f8f0e807c2f7fc036c91dd93d7f7d532101afa,addition
+GUI, is defined as , series,2018-10-31 16:16:27,f5f8f0e807c2f7fc036c91dd93d7f7d532101afa,deletion
+GUI, is defined as , series of Lists,2018-10-31 16:16:27,f5f8f0e807c2f7fc036c91dd93d7f7d532101afa,deletion
+GUI, is , defined,2018-10-31 16:16:27,f5f8f0e807c2f7fc036c91dd93d7f7d532101afa,deletion
+Wx, are , At moment are considered,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Kivy, is , likely,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Button, has , text 2,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Wx, are , are considered for GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Wx, are , are considered for next GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Wx, are , At moment are considered for next GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Wx, are , are considered,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Wx, are , At moment are considered for GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,addition
+Qt, are , are considered for GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Qt, are , are considered,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Qt, are , At moment are considered for next GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Qt, are , At moment are considered,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Qt, are , At moment are considered for GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Button, has , text 2,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Qt, are , are considered for next GUI framework,2018-12-02 15:27:11,8130e9cdc8dfd9f3af55b4b53c5e5203ff1a5b3c,deletion
+Button, has , key,2018-12-02 19:28:52,c371aa68eb9fc845327bf33909b26e7e8c1ed121,addition
+##, Supports , PySide2,2018-12-02 19:28:52,c371aa68eb9fc845327bf33909b26e7e8c1ed121,addition
+##, changing , import,2018-12-02 19:28:52,c371aa68eb9fc845327bf33909b26e7e8c1ed121,addition
+###, is , returned,2018-12-02 19:28:52,c371aa68eb9fc845327bf33909b26e7e8c1ed121,addition
+Button, has , text,2018-12-02 19:28:52,c371aa68eb9fc845327bf33909b26e7e8c1ed121,addition
+Button, has , text 2,2018-12-02 19:28:52,c371aa68eb9fc845327bf33909b26e7e8c1ed121,deletion
+### Qt SlidersThere, is , difference,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+FindElement, was , renamed,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+FindElement, was recently renamed to , Element,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+FindElement, was , recently renamed,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+FindElement, was renamed to , Element,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+### Qt SlidersThere, is , important difference,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+### Qt SlidersThere, is important difference between , Qt,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+### Qt SlidersThere, is difference between , Qt,2018-12-09 18:28:38,a56691d8f535d4ba6a4168ab606b069cab5be284,addition
+### FocusPySimpleGUI, will set , default focus location,2018-12-13 20:53:01,98382569523882c2da538d11717b20a33e0bed8d,addition
+### FocusPySimpleGUI, will set default focus location for , you,2018-12-13 20:53:01,98382569523882c2da538d11717b20a33e0bed8d,addition
+Menu Bar, list of , menu entries,2018-12-23 20:14:13,f9ebd74703a88212e3ab7fe71f86ea4ef60b924d,addition
+Menu Bar, takes , list of menu entries,2018-12-23 20:14:13,f9ebd74703a88212e3ab7fe71f86ea4ef60b924d,addition
+Menu, item ' , Pause Graph,2018-12-23 20:14:13,f9ebd74703a88212e3ab7fe71f86ea4ef60b924d,addition
+ButtonMenu, has , key value,2018-12-23 20:14:13,f9ebd74703a88212e3ab7fe71f86ea4ef60b924d,addition
+Menu Bar, takes , list,2018-12-23 20:14:13,f9ebd74703a88212e3ab7fe71f86ea4ef60b924d,addition
+SystemTray, create , icon,2018-12-29 02:16:45,3748454b7dc1cf31d9a4c0d4cbc8dd422d2f43da,addition
+UpdateYou, can update , any,2018-12-29 02:16:45,3748454b7dc1cf31d9a4c0d4cbc8dd422d2f43da,addition
+Reddit, is with , source,2019-01-03 16:41:17,b16473759af84933e4f5b6a957016236dde26d2e,addition
+GUI, is in , 30 lines of code,2019-01-16 22:02:08,e6bc0d9f7976fcc21dbf93e008936b52ebfda3ff,deletion
+Tony Crewe, provided , his classroom materials,2019-01-24 03:13:33,a4cd835948501b8de0aa58e784699e2f9aeae161,addition
+Tony Crewe, Generously provided , his classroom materials,2019-01-24 03:13:33,a4cd835948501b8de0aa58e784699e2f9aeae161,addition
+Alt-Selections, using , index request,2019-01-24 03:18:28,3c2ed7b6ad412ab7e3273dbc0b4a225eef73763c,deletion
+Wx, are , are considered for GUI framework,2019-04-22 22:43:11,ee38171235f2c7f35a26486f3f02db3cfcf14ba9,deletion
+Kivy, is , likely,2019-04-22 22:43:11,ee38171235f2c7f35a26486f3f02db3cfcf14ba9,deletion
+Wx, are , are considered,2019-04-22 22:43:11,ee38171235f2c7f35a26486f3f02db3cfcf14ba9,deletion
+Wx, are , At moment are considered,2019-04-22 22:43:11,ee38171235f2c7f35a26486f3f02db3cfcf14ba9,deletion
+Wx, are , are considered for next GUI framework,2019-04-22 22:43:11,ee38171235f2c7f35a26486f3f02db3cfcf14ba9,deletion
+Wx, are , At moment are considered for next GUI framework,2019-04-22 22:43:11,ee38171235f2c7f35a26486f3f02db3cfcf14ba9,deletion
+FindElementwindow, = , sg.Window My window title layout,2019-05-25 01:04:15,7348cb67ba39377eadcdf88d03917ec8847e2002,deletion
+1/2, 1/5th amount as , frameworks,2019-06-13 21:59:07,b30f6ce42c70698335eaf86c42f73703fbfe55c3,addition
+1/2, 1/5th , amount,2019-06-13 21:59:07,b30f6ce42c70698335eaf86c42f73703fbfe55c3,addition
+1/2, 1/5th amount as , underlying frameworks,2019-06-13 21:59:07,b30f6ce42c70698335eaf86c42f73703fbfe55c3,addition
+1/2, 1/5th , amount of code,2019-06-13 21:59:07,b30f6ce42c70698335eaf86c42f73703fbfe55c3,addition
+first, is , shown,2019-06-23 18:12:42,d8f62ccc462ca4d25bc3d248656ad7fe6b1f2e31,deletion
+Values, are , same,2019-06-29 15:23:06,78e35619ff2c425e722b152b5ae1eeb7369e2598,addition
+Values, are same as , progress meter relief values,2019-06-29 15:23:06,78e35619ff2c425e722b152b5ae1eeb7369e2598,addition
+1/3, are , considered,2019-06-29 15:23:06,78e35619ff2c425e722b152b5ae1eeb7369e2598,deletion
+Elements, is in , Window,2019-07-06 18:49:22,8037c4eb91967e2688d5df00be61ad86b284ff39,addition
+first, throw , GUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some of source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+##, are , best viewed on ReadTheDocs,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PyCharm, is , why suggested,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some of popular source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+1, to | is , float,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Widgets, is in , tkinter/Qt/Wx,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+##, are , viewed,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some popular source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, been , absolute,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Demo Programs, are for , you,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Remi, continues , be,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, throw GUI onto , front of command line application,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PyCharm, is , why suggested as your IDE,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PySimpleGUIQt, is in , Alpha,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+BeginnersThere, are , couple,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+4, developed , ports of PySimpleGUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+FIVE minutes, is , target,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI API, will enable , Python,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, simply throw GUI onto , front,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, simply throw , GUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PyCharm, is , suggested,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PyCharm, is suggested as , your IDE,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+##, are , best viewed,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some of popular open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, simply throw GUI onto , front of command line application,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, is in , Window,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, has , has absolute nightmare,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+minutes, is , target,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some popular source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Tkinter, is , alive,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, become , *** *** language,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some of popular open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI, is with , 3 rows of Widgets,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+0, is , completely transparent,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI, give , it,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, throw , simple GUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, has , lists,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some popular open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+4, acitvely developed , ports of PySimpleGUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI API, maybe will enable , Python,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, has , has absolute nightmare for me,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some popular open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Popup, use , it,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, of , interesting features,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+####, Supported , IDEsA number,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI, is with , 3 rows of Widgets,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Remi, was , suggested,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Demo Programs, are , choose,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+####, Looking for , GUI package,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, throw GUI onto , front of existing command line application,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+one night, is with , PySimpleGUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI, was , needed,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PySimpleGUIQt, is in , currently Alpha,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+0, is , transparent,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+####, Officially Supported , IDEsA number of IDEs,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+GUI, looks on , tkinter,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+####, Supported , IDEsA number of IDEs,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, has , has nightmare,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some of open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+4, acitvely developed , ports,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, become , *** *** go-to language,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, throw GUI onto , front,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Qt, using , Pyside2 Alpha stage,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+PyCharm, is , one example,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, simply throw GUI onto , front of existing command line application,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+####, Officially Supported , IDEsA number,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+4, developed , ports,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Demo Programs, are , choose from,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+##, are , viewed on ReadTheDocs,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some of open source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI with some of source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, especially integtate , PySimpleGUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+first, simply throw , simple GUI,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Python, has , has nightmare for me,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+Elements, integtate , PySimpleGUI with some of popular source technologies,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,addition
+EXE, Assume , Python 3While,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+#### DictionariesDictionaries, are used by , PySimpleGUI users,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+#### DictionariesDictionaries, are used by , advanced PySimpleGUI users,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+Macs, has , suck,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+GUI, is with , as little,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+#### DictionariesDictionaries, are used by , more advanced PySimpleGUI users,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+Python, has , lists,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+1/2, 1/5th amount as , frameworks,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+Python, of , interesting features,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+API, Variable number of , arguments,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+API, * Variable number of , arguments,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+API, number of , arguments,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+1/2, 1/5th amount as , underlying frameworks,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+SDK, calls , collapse down,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+PySimpleGUIQt, is in , Alpha,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+GUI API, will enable , Python,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+GUI API, maybe will enable , Python,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+1/2, 1/5th , amount,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+PySimpleGUIQt, is in , currently Alpha,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+SDK, calls , collapse,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+#### DictionariesDictionaries, are , used,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+Macs, has , mostly suck,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+API, * number of , arguments,2019-07-12 20:21:02,ae48656c64192c8aa1e737d12418277f3a3cfee9,deletion
+Button, is , target,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Mouse, click , events,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+USER, 'S , coordinate system,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+ThisRow, is , used,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Button, is valid target for , types,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Zero, represents , horizontal text | | | | |,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Frame, as , label,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+ThisRow, indicate , row,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Button, is , valid,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Button, is target for , types,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Zero, represents , text | | | | |,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Button, is , valid target,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+ThisRow, indicate , current row,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Button, is valid target for , types of button,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Button, is target for , types of button,2019-07-17 15:17:17,8618879a7140dd014237fa54eed2d8762033203b,addition
+Tab, is , selected,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Zero, represents , horizontal text |,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Zero, represents , horizontal text | select_rows,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is , valid,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Zero, represents , text |,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is , target,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Qt, has , window designer,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+0, is , completely transparent,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is valid target for , types,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+ThisRow, indicate , row,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Zero, represents , text | select_rows,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+0, is , transparent,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is , valid target,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is target for , types of button | window,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Tab, is in , group,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+ThisRow, indicate , current row,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Keys, are important in , PySimpleGUI,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is target for , types of button | window =,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is target for , types,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Keys, are super important in , PySimpleGUI,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Keys, are , super important,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is valid target for , types of button | window =,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+ThisRow, is , used,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is valid target for , types of button | window,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Keys, are , important,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,addition
+Button, is , target,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is target for , types of button | window =,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Tab, is , selected,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is valid target for , types,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is target for , types,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+ThisRow, indicate , row,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+FindElement, was , recently renamed,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+FindElement, was renamed to , Element,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is , valid target,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is target for , types of button | window,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is valid target for , types of button | window =,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is , valid,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Tab, is in , group,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+ThisRow, is , used,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+ThisRow, indicate , current row,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Button, is valid target for , types of button | window,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+FindElement, was , renamed,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+FindElement, was recently renamed to , Element,2019-07-22 22:30:56,176b0c912245c248029bee8f417be481cdbda65d,deletion
+Zero, represents , horizontal text | | | | |,2019-07-25 15:15:25,59bb9a4fc59eaabb315ab2a8fe4142568d26219d,addition
+Zero, represents , text | | | | |,2019-07-25 15:15:25,59bb9a4fc59eaabb315ab2a8fe4142568d26219d,addition
+####, SetTooltipCalled by , application,2019-07-25 15:15:25,59bb9a4fc59eaabb315ab2a8fe4142568d26219d,addition
+GIF, add , image hereChoose,2019-07-25 15:15:25,59bb9a4fc59eaabb315ab2a8fe4142568d26219d,deletion
+Popup, is with , text entry field,2019-07-27 16:20:20,c768942badc63bcdd683ebdd51fac8aec8bfed3a,addition
+Popup, is with , text entry field,2019-07-27 16:20:20,c768942badc63bcdd683ebdd51fac8aec8bfed3a,deletion
+PyCharm, is , why suggested as your IDE,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,addition
+PyCharm, is , suggested,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,addition
+PyCharm, is , why suggested,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,addition
+PyCharm, is suggested as , your IDE,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,addition
+PyCharm, is , suggested,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,deletion
+PyCharm, is , why suggested,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,deletion
+PyCharm, is suggested as , your IDE,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,deletion
+PyCharm, is , why suggested as your IDE,2019-07-27 16:29:10,5fe93133bad8af7d5d7ebc214f6528b5fe93a992,deletion
+PyCharm, automatically display , documentation about class function method,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+PyCharm, is , one example,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+###, Officially Supported , IDEsA number,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+###, Supported , IDEsA number of IDEs,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+PyCharm, display , documentation about class function method,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+PyCharm, automatically display , documentation,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+Event Loop, In example is , https://user-images.githubusercontent.com/13696193/46566965-f4d65f80-c8f6-11e8-91a3-8cebad0cba90.jpg,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+PyCharm, support , Wing,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+PyCharm, display , documentation,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+###, Supported , IDEsA number,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+###, Officially Supported , IDEsA number of IDEs,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,addition
+####, Supported , IDEsA number,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,deletion
+PyCharm, is , one example,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,deletion
+####, Officially Supported , IDEsA number,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,deletion
+####, Supported , IDEsA number of IDEs,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,deletion
+####, Officially Supported , IDEsA number of IDEs,2019-07-27 22:24:51,0aac91fa706029beff22dc5148156e003bda763e,deletion
+GUI, is with , 3 rows of Elements,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, throw , simple GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+### PySimpleGUIWeb, install PySimpleGUIWeb from , PyPI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+GUI, was , needed,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+### PySimpleGUIWeb, install , latest PySimpleGUIWeb,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, simply throw GUI onto , front,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+### Repl.it, is , NOT web server for you,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Python, become , *** *** go-to language,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, simply throw GUI onto , front of existing command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+PySimpleGUIQt, is in , currently Alpha **,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, throw GUI onto , front of existing command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+8.6, been in , development,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Remi, was , suggested,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Widgets, is in , tkinter/Qt/Wx,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Python, has , lists,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, simply throw , simple GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, throw GUI onto , front,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, simply throw , GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Text Element, is in , PySimpleGUI == Label Widget,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Bob Ross, put , it,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+### PySimpleGUIWeb, install , PySimpleGUIWeb,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Python, is with , tkinter project type.The virtual screen size,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Python, become , *** *** language,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Text Element, is in , tkinter,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Remi, continues , be,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+8.6, been in , development for YEARS,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, throw GUI onto , front of command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Python, of , interesting features,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+3.7, try instead , 3.7.2,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+3.7, try , 3.7.2,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, simply throw GUI onto , front of command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+PySimpleGUIQt, is in , Alpha **,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Complex, is , better,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, throw , GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+### PySimpleGUIWeb, install PySimpleGUIWeb onto , virtual Python environment,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+GUI, is with , 3 rows of Elements,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+GUI, looks on , tkinter,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+GUI, give , it,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+Python, is with , tkinter project type,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,addition
+first, throw GUI onto , front of existing command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+PySimpleGUIQt, is in , Alpha,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+PySimpleGUIQt, is in , currently Alpha,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Remi, was , suggested,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Qt, was , port,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Widgets, is in , tkinter/Qt/Wx,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Python, has , lists,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Qt, was second port after , tkinter,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, simply throw , simple GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, throw GUI onto , front,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, simply throw , GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+GitHub, start , running,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+GUI, is with , 3 rows of Widgets,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Python, become , *** *** language,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+GUI, is with , 3 rows of Widgets,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Qt, was port after , tkinter,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Remi, continues , be,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, throw GUI onto , front of command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Python, of , interesting features,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, simply throw GUI onto , front of command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, throw , GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Qt, was , second port,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+BeginnersThere, are , couple,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+GUI, looks on , tkinter,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+GUI, give , it,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, throw , simple GUI,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+GUI, was , needed,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, simply throw GUI onto , front,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Python, become , *** *** go-to language,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+first, simply throw GUI onto , front of existing command line application,2019-07-29 20:16:06,f01cd760bf0b60f8e79e8fc0b4fb14cf8fcbc987,deletion
+Info, is , discussed,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+3, main will display , version number,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+3, will display version number in , letters,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+#, is , one *** *** part of PySimpleGUI programming environment,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+3, main will display version number in , letters,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+3, main will display version number in , big letters,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Docstrings, enable to , access help from Python,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+#, is , one *** *** part,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Docstrings, enable to , access help directly from Python,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+One, use , size parameter,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+3, will display version number in , big letters,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Info, is discussed in , Window section above,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+#, is , one *** vital *** part,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Docstrings, enable , you,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Info, is discussed in , Window section,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Docstrings, be , focus,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+One, use , normal size parameter,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Docstrings, continue , focus,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Info, setting , default element sizes,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+Docstrings, enable to , access help,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+3, will display , version number,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+#, is , one *** vital *** part of PySimpleGUI programming environment,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+User, has , Manual2,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+PyCharm, is , one example,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,addition
+PyCharm, is , one example,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,deletion
+Callbacks, scatter , it,2019-08-04 19:04:16,8f5472c40b91e956179427d4e5eddccf6d9ea3c0,deletion
+Debugger WindowsThere, are , ## 2 debugger windows,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+One, is , called,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+Debugger WindowsThere, are , ## 2 windows,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+Debugger WindowsThere, are , 2 debugger windows,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+Debugger WindowsThere, are , 2 windows,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+Zero, represents , horizontal text | | | | |,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+Zero, represents , text | | | | |,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+One, is called , Popout,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,addition
+Zero, represents , text | | | | |,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,deletion
+Zero, represents , horizontal text | | | | |,2019-08-05 20:58:20,d6458df5abb99d97a4b4437fb309e88a6fc593c8,deletion
+Tab, is in , group,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+#####, can click , will populard,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+REPL, is in , debugger showing,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+One, is , called,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+#####, can click , will automatically populard,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+One, is called , Popout debugger window,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+#####, can simply click , will populard,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+Popout, was , created,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+PackageLet, of , pull,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+Auto Watches, is in , blue,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+#####, can simply click , Show All Variable button,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+#####, can click , Show All Variable button,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+Tab, is , selected,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+## Documentation, Get , Demos,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+#####, can simply click , will automatically populard,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,addition
+Tab, is , selected,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,deletion
+Tab, is in , group,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,deletion
+One, is called , Popout,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,deletion
+One, is , called,2019-08-11 02:44:14,28c7c35ac016fd3848851f96efc148f5ff5d9b09,deletion
+2.7, gets , upgrade,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+Update, can , can abbreviated to any of these,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can click , will automatically populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can click , will populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+PackageLet, of , pull,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+Update, can , can abbreviated to any,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can simply click , will populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+One, is , called,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+One, is called , Popout debugger window,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can click , Show All Variable button,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can simply click , will automatically populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+Popout, was , created,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+Update, can , can abbreviated,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+2.7, Finally gets , upgrade,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+Auto Watches, is in , blue,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+REPL, is in , debugger showing,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can simply click , Show All Variable button,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,addition
+#####, can simply click , Show All Variable button,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+#####, can click , will automatically populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+#####, can click , will populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+PackageLet, of , pull,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+#####, can simply click , will populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+One, is , called,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+Callback, called by , tkinter,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+One, is called , Popout debugger window,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+#####, can click , Show All Variable button,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+#####, can simply click , will automatically populard,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+Popout, was , created,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+REPL, is in , debugger showing,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+Auto Watches, is in , blue,2019-08-19 21:14:34,31f7183891d996381c818b7ae1063d12424b3133,deletion
+Python, has , awesome list,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+###, Putting , it,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+###, Building , HeaderFirst,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+###, Building , HeaderFirst let,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+###, Create , Rows,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+Button, has , text,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+frontLet, onto , start with headers themselves.This,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+###, Create , Several Rows,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,addition
+Button, has , text,2019-08-24 00:05:13,0a197b200b3c61c31ba444df0e7ab2e84cf258d8,deletion
+LOT, amount of , time,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Demo Programs, located in , subfolder named,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+One, will , will added,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+GUI, is , thread.Other,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Sizer, is of , simple,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+###, Finding , Your Element 's Widget TypeOf course,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+GUI, is , main thread.Other,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Sizer, is of , quite simple,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Elements, Get , method,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+GUI Widgets, are , created,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Demo Programs, located in , subfolder,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+sys, is in , process,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Demo Programs, located under , level,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+One, will , will added as stub,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Demo Programs, located under , top level,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+GUI, has , screen,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,addition
+Frame, as , label,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+May, return in , future,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Elements, is in , Window,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+May, return to , native tkinter progress meter solution,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Demo Programs, located in , subfolder,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Button, is , valid target,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Demo Programs, located under , each PySimpleGUI ports on GitHub,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+May, return to , tkinter progress meter solution,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Button, is target for , types,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+ThisRow, indicate , current row,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Button, is valid target for , types,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Button, is , target,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Demo Programs, located in , subfolder named,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+ThisRow, indicate , row,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Demo Programs, located under , each of PySimpleGUI ports on GitHub,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Button, is , valid,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+ThisRow, is , used,2019-08-31 01:02:42,48ef8e5827902e918be06d0c010600722781a339,deletion
+Button, is , valid target,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+Frame, as , label,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+Button, is , target,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+ThisRow, indicate , row,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+ThisRow, is , used,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+Button, is valid target for , types,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+Button, is target for , types,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+Button, is , valid,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+3.7, try , 3.7.2,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+ThisRow, indicate , current row,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+3.7, try instead , 3.7.2,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+Elements, is in , Window,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,addition
+3.7, try instead , 3.7.2,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,deletion
+3.7, try , 3.7.2,2019-09-03 21:30:03,d2bb47b9a8f2d637a2c694ecd000d82a813c394e,deletion
+Python, has , powerful list constructs,2019-10-09 01:15:00,f157131a73a6baa04b40dca8ff8e2c4d03ff724f,addition
+Python, has , powerful list constructs,2019-10-09 01:15:00,f157131a73a6baa04b40dca8ff8e2c4d03ff724f,deletion
+Theme Formula, was , Nov 2019 devised,2019-11-16 09:35:30,a7faf9c1e93098e94f617f8268047bd81bee3612,addition
+Theme Formula, was , devised,2019-11-16 09:35:30,a7faf9c1e93098e94f617f8268047bd81bee3612,addition
+Object, has , values,2019-11-16 09:35:30,a7faf9c1e93098e94f617f8268047bd81bee3612,addition
+Object, has , values as formatted string,2019-11-16 09:35:30,a7faf9c1e93098e94f617f8268047bd81bee3612,addition
+one, make , copy of PySimpleGUI27.py,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+Window, has , background color,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+one, make quickly , copy of PySimpleGUI27.py,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+2.7, is , required,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+GUI, has , screen,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+3.7, try , 3.7.2,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+Popup, is with , Yes,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+one, make , copy,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+2.7, is , where required,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+one, make quickly , copy,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+no_titlebar, is , True grab_anywhere,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+no_titlebar, is , grab_anywhere,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+one, copy of , PySimpleGUI27.py,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,addition
+sys, is in , process,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+GUI, has , screen,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Macs, are , blocked,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+3.7, try , 3.7.2,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Macs, use , look,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Macs, are blocked , due to problems,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+3.7, try instead , 3.7.2,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Macs, are blocked , due to problems with button colors,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Macs, are blocked , due,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Popup, is with , Yes,2019-12-08 00:29:23,b9926676f0451f3f9d8e5012b1bc7d570fff641f,deletion
+Pretty Progress Bars, release , * Fix,2019-12-09 22:08:19,6348b969e619f8eab4bc90036eaeaaae74095934,addition
+Pretty Progress Bars, release , * Fix for built-in debugger,2019-12-09 22:08:19,6348b969e619f8eab4bc90036eaeaaae74095934,addition
+Pretty Progress Bars, release , * Fix for debugger,2019-12-09 22:08:19,6348b969e619f8eab4bc90036eaeaaae74095934,addition
+0, change to , 1,2019-12-09 22:08:19,6348b969e619f8eab4bc90036eaeaaae74095934,addition
+mouse, is hovering to , time,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,addition
+### AddRowNot, recommended , use call,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+Graph, click , events,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+tkinter, with , widget.bind function,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+### LayoutCan, use like , Window.Layout method,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+tkinter, to , bind method t,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+Callback, called by , tkinter,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+tkinter, to , bind method,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+### AddRowNot, recommended , user call,2019-12-10 20:48:26,2c6ed5355f8fbed34995cd3e9fd5b26bf7d57785,deletion
+LOT, amount of , time,2020-07-28 18:36:23,b5c0bd735dff63a6122f253a0c6f37adc4949a46,deletion
+two, are , paired,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+GUI, enables , you,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+One, is addition of , parameter to Input element,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+One, is addition of , key parameter to Input element,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+One, is , addition,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+day, has , work on PySimpleGUI,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+www.PySimpleGUI.org, is , easy,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+two, are , when paired together,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+GUI, interacting with , data,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+1/2, create , window,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+1/2, create , identical window,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+One, is addition of , key parameter,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+two, are , paired together,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+two, are , when paired,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+GUI, interacting with , data in GUI,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+Event Loop, reads , events,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+Event Loop, reads , events from your window,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+One, is addition of , parameter,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,addition
+Wiki, can , can released,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+GUI, enables , you,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+1/2, create , window,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+two, are , paired,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+One, is addition of , key parameter to Input element,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+day, has , work on PySimpleGUI,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+Event Loop, reads , events,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+One, is addition of , parameter to Input element,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+Wiki, can , can released soon,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+two, are , when paired together,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+GUI, interacting with , data,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+One, is addition of , key parameter,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+two, are , paired together,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+two, are , when paired,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+Event Loop, reads , events from your window,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+One, is addition of , parameter,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+One, is , addition,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+www.PySimpleGUI.org, is , easy,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+GUI, interacting with , data in GUI,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+1/2, create , identical window,2020-10-04 17:55:25,3722a098636e3023ca3664ce54081b6deafbca8a,deletion
+day, has , work on PySimpleGUI,2020-10-21 14:29:07,8d4d743bfa049b23eea81f4f4e9ae87fdcea04c2,addition
+day, has , work on PySimpleGUI,2020-10-21 14:29:07,8d4d743bfa049b23eea81f4f4e9ae87fdcea04c2,deletion
+GUI, is , also itself,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is itself In , other GUI packages,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is also itself In , GUI packages,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is itself In , GUI packages,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is also itself In , other GUI packages,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is , itself,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is in , Python,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,addition
+GUI, is in , Python,2021-05-12 14:08:28,f1f5e47fc7503718d0c3678563da3d22d2de0e31,deletion

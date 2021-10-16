@@ -1,0 +1,180 @@
+{
+    "commits": {
+        "dcf2aac129829cf768010805cfb70e98bba47ffc": {
+            "date": "2013-04-16 08:04:31",
+            "additions": [
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled by ",
+                    "Entity2": " Action Pack.These layers",
+                    "Date": "2013-04-16 08:04:31",
+                    "Sha": "dcf2aac129829cf768010805cfb70e98bba47ffc",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled together by ",
+                    "Entity2": " Action Pack.These layers",
+                    "Date": "2013-04-16 08:04:31",
+                    "Sha": "dcf2aac129829cf768010805cfb70e98bba47ffc",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled by ",
+                    "Entity2": " Action Pack.These two layers",
+                    "Date": "2013-04-16 08:04:31",
+                    "Sha": "dcf2aac129829cf768010805cfb70e98bba47ffc",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled together by ",
+                    "Entity2": " Action Pack.These two layers",
+                    "Date": "2013-04-16 08:04:31",
+                    "Sha": "dcf2aac129829cf768010805cfb70e98bba47ffc",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "MVC",
+                    "Relationship": " divides ",
+                    "Entity2": " yourapplication",
+                    "Date": "2013-04-16 08:04:31",
+                    "Sha": "dcf2aac129829cf768010805cfb70e98bba47ffc",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "853596c92695003e92a9a7759cebfcb4b97be9ea": {
+            "date": "2013-08-26 21:39:47",
+            "additions": [
+                {
+                    "Entity 1": "Action View",
+                    "Relationship": " can ",
+                    "Entity2": " can used",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Action Dispatch",
+                    "Relationship": " Pack ",
+                    "Entity2": " Action Controllerare",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Action View",
+                    "Relationship": " is in ",
+                    "Entity2": " its actionview/README",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled by ",
+                    "Entity2": " Action Pack.These two layers",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled by ",
+                    "Entity2": " Action Pack.These layers",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled together by ",
+                    "Entity2": " Action Pack.These layers",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Controller",
+                    "Relationship": " are handled together by ",
+                    "Entity2": " Action Pack.These two layers",
+                    "Date": "2013-08-26 21:39:47",
+                    "Sha": "853596c92695003e92a9a7759cebfcb4b97be9ea",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "b0ecbc8e11ce170f159ec42b700d979547048e27": {
+            "date": "2014-10-15 11:58:03",
+            "additions": [
+                {
+                    "Entity 1": "Active Model",
+                    "Relationship": " is in ",
+                    "Entity2": " its activemodel/README",
+                    "Date": "2014-10-15 11:58:03",
+                    "Sha": "b0ecbc8e11ce170f159ec42b700d979547048e27",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "2ff1de624e5506754aa5dbecad847612219e1a16": {
+            "date": "2018-04-18 21:17:46",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Action View",
+                    "Relationship": " is in ",
+                    "Entity2": " its actionview/README",
+                    "Date": "2018-04-18 21:17:46",
+                    "Sha": "2ff1de624e5506754aa5dbecad847612219e1a16",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Active Model",
+                    "Relationship": " is in ",
+                    "Entity2": " its activemodel/README",
+                    "Date": "2018-04-18 21:17:46",
+                    "Sha": "2ff1de624e5506754aa5dbecad847612219e1a16",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Action View",
+                    "Relationship": " can ",
+                    "Entity2": " can used",
+                    "Date": "2018-04-18 21:17:46",
+                    "Sha": "2ff1de624e5506754aa5dbecad847612219e1a16",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "46fa2e3b087b914d317904c9100e62623808b6f0": {
+            "date": "2018-07-31 05:31:43",
+            "additions": [
+                {
+                    "Entity 1": "Rails",
+                    "Relationship": " code of ",
+                    "Entity2": " conduct",
+                    "Date": "2018-07-31 05:31:43",
+                    "Sha": "46fa2e3b087b914d317904c9100e62623808b6f0",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Rails",
+                    "Relationship": " code of ",
+                    "Entity2": " conduct",
+                    "Date": "2018-07-31 05:31:43",
+                    "Sha": "46fa2e3b087b914d317904c9100e62623808b6f0",
+                    "Change": "deletion"
+                }
+            ]
+        }
+    }
+}

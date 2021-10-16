@@ -1,0 +1,528 @@
+{
+    "commits": {
+        "f41959ccb2d9d4c722fe8fc3351401d53bcf4900": {
+            "date": "2015-11-07 00:27:58",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " was originally developed by ",
+                    "Entity2": " researchers",
+                    "Date": "2015-11-07 00:27:58",
+                    "Sha": "f41959ccb2d9d4c722fe8fc3351401d53bcf4900",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " was ",
+                    "Entity2": " originally developed",
+                    "Date": "2015-11-07 00:27:58",
+                    "Sha": "f41959ccb2d9d4c722fe8fc3351401d53bcf4900",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " was ",
+                    "Entity2": " developed",
+                    "Date": "2015-11-07 00:27:58",
+                    "Sha": "f41959ccb2d9d4c722fe8fc3351401d53bcf4900",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " was developed by ",
+                    "Entity2": " researchers",
+                    "Date": "2015-11-07 00:27:58",
+                    "Sha": "f41959ccb2d9d4c722fe8fc3351401d53bcf4900",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "7de9099a739c9dc62b1ca55c1eeef90acbfa7be9": {
+            "date": "2015-11-07 18:49:41",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " using ",
+                    "Entity2": " package",
+                    "Date": "2015-11-07 18:49:41",
+                    "Sha": "7de9099a739c9dc62b1ca55c1eeef90acbfa7be9",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "d769a3fd306ad5be8e4a118b39394606e360101d": {
+            "date": "2015-11-09 03:23:41",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " using ",
+                    "Entity2": " package",
+                    "Date": "2015-11-09 03:23:41",
+                    "Sha": "d769a3fd306ad5be8e4a118b39394606e360101d",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "fe056f0b5e52db86766761f5e6446a89c1aa3938": {
+            "date": "2016-02-17 20:56:41",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Try ",
+                    "Entity2": " your first TensorFlow program",
+                    "Date": "2016-02-17 20:56:41",
+                    "Sha": "fe056f0b5e52db86766761f5e6446a89c1aa3938",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Try ",
+                    "Entity2": " your TensorFlow program",
+                    "Date": "2016-02-17 20:56:41",
+                    "Sha": "fe056f0b5e52db86766761f5e6446a89c1aa3938",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "22f3a97b8b089202f60bb0c7697feb0c8e0713cc": {
+            "date": "2018-04-24 04:21:38",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-04-24 04:21:38",
+                    "Sha": "22f3a97b8b089202f60bb0c7697feb0c8e0713cc",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "6af6b3b1ea76d3e90227bcdda70dc845d00dc6fc": {
+            "date": "2018-06-23 00:43:06",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-06-23 00:43:06",
+                    "Sha": "6af6b3b1ea76d3e90227bcdda70dc845d00dc6fc",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-06-23 00:43:06",
+                    "Sha": "6af6b3b1ea76d3e90227bcdda70dc845d00dc6fc",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "33dd56457fc89598687609f7d0fb06b2c538da3a": {
+            "date": "2018-08-02 07:59:56",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " stable Python API",
+                    "Date": "2018-08-02 07:59:56",
+                    "Sha": "33dd56457fc89598687609f7d0fb06b2c538da3a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python API",
+                    "Date": "2018-08-02 07:59:56",
+                    "Sha": "33dd56457fc89598687609f7d0fb06b2c538da3a",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "f2384d1d898f139721222c8bf95256a2ac84d805": {
+            "date": "2018-08-10 20:30:41",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python API",
+                    "Date": "2018-08-10 20:30:41",
+                    "Sha": "f2384d1d898f139721222c8bf95256a2ac84d805",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " stable Python API",
+                    "Date": "2018-08-10 20:30:41",
+                    "Sha": "f2384d1d898f139721222c8bf95256a2ac84d805",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "47c8db116582633cfd898d2fab19fc57922e6a67": {
+            "date": "2018-11-26 16:38:45",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-11-26 16:38:45",
+                    "Sha": "47c8db116582633cfd898d2fab19fc57922e6a67",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-11-26 16:38:45",
+                    "Sha": "47c8db116582633cfd898d2fab19fc57922e6a67",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "959f263c2d2e74dc9d8f9b3a98d238c681d51ac4": {
+            "date": "2018-11-27 00:06:27",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " also includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-11-27 00:06:27",
+                    "Sha": "959f263c2d2e74dc9d8f9b3a98d238c681d51ac4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-11-27 00:06:27",
+                    "Sha": "959f263c2d2e74dc9d8f9b3a98d238c681d51ac4",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " also includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-11-27 00:06:27",
+                    "Sha": "959f263c2d2e74dc9d8f9b3a98d238c681d51ac4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2018-11-27 00:06:27",
+                    "Sha": "959f263c2d2e74dc9d8f9b3a98d238c681d51ac4",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "037894c5e792ce546bdd012e265f27d85295cb25": {
+            "date": "2019-02-01 04:47:02",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python",
+                    "Date": "2019-02-01 04:47:02",
+                    "Sha": "037894c5e792ce546bdd012e265f27d85295cb25",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " stable Python API",
+                    "Date": "2019-02-01 04:47:02",
+                    "Sha": "037894c5e792ce546bdd012e265f27d85295cb25",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python API",
+                    "Date": "2019-02-01 04:47:02",
+                    "Sha": "037894c5e792ce546bdd012e265f27d85295cb25",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "2af9fe8670a9a241e78c8a0bb7bf9aca93036d24": {
+            "date": "2019-02-01 22:55:53",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python",
+                    "Date": "2019-02-01 22:55:53",
+                    "Sha": "2af9fe8670a9a241e78c8a0bb7bf9aca93036d24",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " stable Python API",
+                    "Date": "2019-02-01 22:55:53",
+                    "Sha": "2af9fe8670a9a241e78c8a0bb7bf9aca93036d24",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python API",
+                    "Date": "2019-02-01 22:55:53",
+                    "Sha": "2af9fe8670a9a241e78c8a0bb7bf9aca93036d24",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "90b572274a5f1499353f97093abfc7a40c93cd7c": {
+            "date": "2019-03-01 00:22:03",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python",
+                    "Date": "2019-03-01 00:22:03",
+                    "Sha": "90b572274a5f1499353f97093abfc7a40c93cd7c",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " Python API",
+                    "Date": "2019-03-01 00:22:03",
+                    "Sha": "90b572274a5f1499353f97093abfc7a40c93cd7c",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " provides ",
+                    "Entity2": " stable Python API",
+                    "Date": "2019-03-01 00:22:03",
+                    "Sha": "90b572274a5f1499353f97093abfc7a40c93cd7c",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "762d745521988e8a82118faedaf91a3fd50c6afa": {
+            "date": "2019-04-05 19:28:38",
+            "additions": [
+                {
+                    "Entity 1": "PyPi",
+                    "Relationship": " on project is ",
+                    "Entity2": " tf-nightly-gpu",
+                    "Date": "2019-04-05 19:28:38",
+                    "Sha": "762d745521988e8a82118faedaf91a3fd50c6afa",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "029ea5bda6c2b24f9f91b4c0be5842bd55c747f9": {
+            "date": "2019-04-05 22:57:55",
+            "additions": [
+                {
+                    "Entity 1": "PyPi",
+                    "Relationship": " on project is ",
+                    "Entity2": " https://pypi.python.org/pypi/tf-nightly-gpu",
+                    "Date": "2019-04-05 22:57:55",
+                    "Sha": "029ea5bda6c2b24f9f91b4c0be5842bd55c747f9",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " offers ",
+                    "Entity2": " nightly pip packagesunder",
+                    "Date": "2019-04-05 22:57:55",
+                    "Sha": "029ea5bda6c2b24f9f91b4c0be5842bd55c747f9",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " offers ",
+                    "Entity2": " pip packagesunder",
+                    "Date": "2019-04-05 22:57:55",
+                    "Sha": "029ea5bda6c2b24f9f91b4c0be5842bd55c747f9",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " now offers ",
+                    "Entity2": " nightly pip packagesunder",
+                    "Date": "2019-04-05 22:57:55",
+                    "Sha": "029ea5bda6c2b24f9f91b4c0be5842bd55c747f9",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "dea3fa29672598fde0564e6a522d5f744aa83d9b": {
+            "date": "2019-08-12 20:59:00",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " end-to-end",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is in ",
+                    "Entity2": " Practice from Coursera",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " open source platformfor machine learning",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " end-to-end open source platformfor machine learning",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " end-to-end source platformfor machine learning",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " source platformfor machine learning",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is in ",
+                    "Entity2": " Practice Specialization",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " also includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " includes ",
+                    "Entity2": " TensorBoard",
+                    "Date": "2019-08-12 20:59:00",
+                    "Sha": "dea3fa29672598fde0564e6a522d5f744aa83d9b",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6abe807ba7840670de0c9e35bf9b6faad9b0b18d": {
+            "date": "2019-08-13 00:02:24",
+            "additions": [
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " source platformfor machine learning",
+                    "Date": "2019-08-13 00:02:24",
+                    "Sha": "6abe807ba7840670de0c9e35bf9b6faad9b0b18d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " end-to-end open source platformfor machine learning",
+                    "Date": "2019-08-13 00:02:24",
+                    "Sha": "6abe807ba7840670de0c9e35bf9b6faad9b0b18d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " open source platformfor machine learning",
+                    "Date": "2019-08-13 00:02:24",
+                    "Sha": "6abe807ba7840670de0c9e35bf9b6faad9b0b18d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " end-to-end source platformfor machine learning",
+                    "Date": "2019-08-13 00:02:24",
+                    "Sha": "6abe807ba7840670de0c9e35bf9b6faad9b0b18d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is in ",
+                    "Entity2": " Practice from Coursera",
+                    "Date": "2019-08-13 00:02:24",
+                    "Sha": "6abe807ba7840670de0c9e35bf9b6faad9b0b18d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "TensorFlow",
+                    "Relationship": " is ",
+                    "Entity2": " end-to-end",
+                    "Date": "2019-08-13 00:02:24",
+                    "Sha": "6abe807ba7840670de0c9e35bf9b6faad9b0b18d",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "8ba04796c27424e05f3239609e15cadbba5fba20": {
+            "date": "2019-11-13 19:13:21",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "ML",
+                    "Relationship": " powered applications.Google Brain team within ",
+                    "Entity2": " Google 's Machine Intelligence Research organization forthe purposes",
+                    "Date": "2019-11-13 19:13:21",
+                    "Sha": "8ba04796c27424e05f3239609e15cadbba5fba20",
+                    "Change": "deletion"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "commits": {
+        "3be34c6da0abddc73c45f2251ae4c268f7e112bc": {
+            "date": "2015-03-22 21:34:47",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Nucleus",
+                    "Relationship": " is Android library ",
+                    "Entity2": " which helps",
+                    "Date": "2015-03-22 21:34:47",
+                    "Sha": "3be34c6da0abddc73c45f2251ae4c268f7e112bc",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Nucleus",
+                    "Relationship": " is library ",
+                    "Entity2": " which helps",
+                    "Date": "2015-03-22 21:34:47",
+                    "Sha": "3be34c6da0abddc73c45f2251ae4c268f7e112bc",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "cd23cdef7147799f7d236a9f27e4ce7afcff2657": {
+            "date": "2015-07-22 00:01:05",
+            "additions": [
+                {
+                    "Entity 1": "Nucleus",
+                    "Relationship": " is library ",
+                    "Entity2": " which utilizes",
+                    "Date": "2015-07-22 00:01:05",
+                    "Sha": "cd23cdef7147799f7d236a9f27e4ce7afcff2657",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Nucleus",
+                    "Relationship": " is Android library ",
+                    "Entity2": " which utilizes",
+                    "Date": "2015-07-22 00:01:05",
+                    "Sha": "cd23cdef7147799f7d236a9f27e4ce7afcff2657",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "34c803d1b961e2cf0f7724c62b4f6d09c11943e3": {
+            "date": "2015-07-22 12:18:45",
+            "additions": [
+                {
+                    "Entity 1": "Nucleus",
+                    "Relationship": " is ",
+                    "Entity2": " simple",
+                    "Date": "2015-07-22 12:18:45",
+                    "Sha": "34c803d1b961e2cf0f7724c62b4f6d09c11943e3",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Nucleus",
+                    "Relationship": " is ",
+                    "Entity2": " Android",
+                    "Date": "2015-07-22 12:18:45",
+                    "Sha": "34c803d1b961e2cf0f7724c62b4f6d09c11943e3",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        }
+    }
+}

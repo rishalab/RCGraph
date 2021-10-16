@@ -1,0 +1,2300 @@
+{
+    "commits": {
+        "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7": {
+            "date": "2019-09-05 16:12:40",
+            "additions": [
+                {
+                    "Entity 1": "GuidancePlease",
+                    "Relationship": " relating to ",
+                    "Entity2": " our coding standards",
+                    "Date": "2019-09-05 16:12:40",
+                    "Sha": "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Visual Studio",
+                    "Relationship": " is in ",
+                    "Entity2": " Solutions Configuration drop-down menu select Release",
+                    "Date": "2019-09-05 16:12:40",
+                    "Sha": "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " is ",
+                    "Entity2": " nascent",
+                    "Date": "2019-09-05 16:12:40",
+                    "Sha": "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "GuidancePlease",
+                    "Relationship": " relating to ",
+                    "Entity2": " our standards etc.",
+                    "Date": "2019-09-05 16:12:40",
+                    "Sha": "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "GuidancePlease",
+                    "Relationship": " relating to ",
+                    "Entity2": " our standards",
+                    "Date": "2019-09-05 16:12:40",
+                    "Sha": "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "GuidancePlease",
+                    "Relationship": " relating to ",
+                    "Entity2": " our coding standards etc.",
+                    "Date": "2019-09-05 16:12:40",
+                    "Sha": "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "eb1ef65fac417d0111b8e7ec90356fa5e2eb6fd9": {
+            "date": "2019-10-11 18:28:52",
+            "additions": [
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his SmartRename tool",
+                    "Date": "2019-10-11 18:28:52",
+                    "Sha": "eb1ef65fac417d0111b8e7ec90356fa5e2eb6fd9",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his SmartRename tool into PowerToys",
+                    "Date": "2019-10-11 18:28:52",
+                    "Sha": "eb1ef65fac417d0111b8e7ec90356fa5e2eb6fd9",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "70f40e207a45fbf8a6d8cee7dffa6b2db97a5342": {
+            "date": "2019-10-23 16:03:16",
+            "additions": [
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his",
+                    "Date": "2019-10-23 16:03:16",
+                    "Sha": "70f40e207a45fbf8a6d8cee7dffa6b2db97a5342",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his",
+                    "Date": "2019-10-23 16:03:16",
+                    "Sha": "70f40e207a45fbf8a6d8cee7dffa6b2db97a5342",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "8e55f2bf581c9737cfb5563212a28ce5dff96d7d": {
+            "date": "2019-10-29 11:12:47",
+            "additions": [
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his SmartRename tool into PowerToys",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Visual Studio",
+                    "Relationship": " is in ",
+                    "Entity2": " Solutions Configuration drop-down menu select Release",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his SmartRename tool",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " contributed ",
+                    "Entity2": " his",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Building ",
+                    "Entity2": " Code",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Visual Studio",
+                    "Relationship": " is in ",
+                    "Entity2": " Solutions Configuration drop-down menu select Release",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his SmartRename tool",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his SmartRename tool into PowerToys",
+                    "Date": "2019-10-29 11:12:47",
+                    "Sha": "8e55f2bf581c9737cfb5563212a28ce5dff96d7d",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "52ead7ad1b474a15e58e078cbd9d68ad9f6de2a6": {
+            "date": "2019-10-29 17:10:01",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " integrate ",
+                    "Entity2": " his",
+                    "Date": "2019-10-29 17:10:01",
+                    "Sha": "52ead7ad1b474a15e58e078cbd9d68ad9f6de2a6",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "02c08c942d58271f9b7260b0f1be507be9182984": {
+            "date": "2020-03-03 19:14:30",
+            "additions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " run ",
+                    "Entity2": " command",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### Via Github",
+                    "Relationship": " is with ",
+                    "Entity2": " MSI Install",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " run ",
+                    "Entity2": " command from command line",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "#### Via GitHub",
+                    "Relationship": " is with ",
+                    "Entity2": " MSIX",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " contributed ",
+                    "Entity2": " his SmartRename tool",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Chris Davis",
+                    "Relationship": " contributed ",
+                    "Entity2": " his SmartRename tool into PowerToys",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "###",
+                    "Relationship": " Building ",
+                    "Entity2": " Code",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " run following ",
+                    "Entity2": " command from command line",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " run following ",
+                    "Entity2": " command",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " is ",
+                    "Entity2": " nascent",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "### Chocolatey",
+                    "Relationship": " upgrade ",
+                    "Entity2": " PowerToys",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "### Chocolatey",
+                    "Relationship": " upgrade PowerToys from ",
+                    "Entity2": " https://chocolatey.org",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Visual Studio",
+                    "Relationship": " is in ",
+                    "Entity2": " Solutions Configuration drop-down menu select Release",
+                    "Date": "2020-03-03 19:14:30",
+                    "Sha": "02c08c942d58271f9b7260b0f1be507be9182984",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa": {
+            "date": "2020-03-31 17:48:42",
+            "additions": [
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " two types",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " previewed",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " two types of files",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " two types",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " two types of files",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " previewed",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " Note ",
+                    "Entity2": " Microsoft",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "#### Via GitHub",
+                    "Relationship": " is with ",
+                    "Entity2": " MSIX",
+                    "Date": "2020-03-31 17:48:42",
+                    "Sha": "3a4b970c62d6fad67b36bc5e4a3dcd9b5c062efa",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "3dc61962de102b01e82945be2a58c47cb5b714a0": {
+            "date": "2020-05-14 04:31:36",
+            "additions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-14 04:31:36",
+                    "Sha": "3dc61962de102b01e82945be2a58c47cb5b714a0",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb": {
+            "date": "2020-05-20 00:12:35",
+            "additions": [
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-05-20 00:12:35",
+                    "Sha": "eb3ec26279233ad8d9159f993e48c24dc5dd2dbb",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "f83ff068aead8d69510de3a8597acaa8cea1fa78": {
+            "date": "2020-06-03 23:03:36",
+            "additions": [
+                {
+                    "Entity 1": "Workaround",
+                    "Relationship": " be run as ",
+                    "Entity2": " admin",
+                    "Date": "2020-06-03 23:03:36",
+                    "Sha": "f83ff068aead8d69510de3a8597acaa8cea1fa78",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "67c8d80190c405001538fd104967a0dafe67404d": {
+            "date": "2020-06-11 17:16:39",
+            "additions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-06-11 17:16:39",
+                    "Sha": "67c8d80190c405001538fd104967a0dafe67404d",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "43aa2f5cd9bd309b7a5881cc72cac777a90c9d1c": {
+            "date": "2020-06-30 16:32:15",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Workaround",
+                    "Relationship": " be ",
+                    "Entity2": " run",
+                    "Date": "2020-06-30 16:32:15",
+                    "Sha": "43aa2f5cd9bd309b7a5881cc72cac777a90c9d1c",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Workaround",
+                    "Relationship": " be run as ",
+                    "Entity2": " admin",
+                    "Date": "2020-06-30 16:32:15",
+                    "Sha": "43aa2f5cd9bd309b7a5881cc72cac777a90c9d1c",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "ed21efc0037925d41a93a250ea2e33b9c06954a4": {
+            "date": "2020-07-23 16:21:11",
+            "additions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-07-23 16:21:11",
+                    "Sha": "ed21efc0037925d41a93a250ea2e33b9c06954a4",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "8fb095e2f46e67fd1220892161999209f82267c1": {
+            "date": "2020-07-31 16:09:03",
+            "additions": [
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " previewed",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render With ",
+                    "Entity2": " <kbd> Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render With ",
+                    "Entity2": " quick Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " two types",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render With ",
+                    "Entity2": " quick Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " two types of files",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render ",
+                    "Entity2": " SVG icons thanks to Chris Davis",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render With ",
+                    "Entity2": " quick <kbd> Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " two types",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render With ",
+                    "Entity2": " Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Martin Chrzan",
+                    "Relationship": " has ",
+                    "Entity2": " Color Picker",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render ",
+                    "Entity2": " SVG icons thanks to Chris Davis",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render With ",
+                    "Entity2": " quick <kbd> Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "### Via GitHub",
+                    "Relationship": " is with ",
+                    "Entity2": " EXE Install",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " previewed",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render ",
+                    "Entity2": " SVG icons thanks to Chris Davis",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Martin Chrzan",
+                    "Relationship": " 's Picker is ",
+                    "Entity2": " https://github.com/martinchrzan/",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render ",
+                    "Entity2": " SVG icons thanks",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render ",
+                    "Entity2": " SVG icons thanks",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " two types of files",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can now render ",
+                    "Entity2": " SVG icons thanks to Chris Davis",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render With ",
+                    "Entity2": " <kbd> Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "File Explorer",
+                    "Relationship": " Can render With ",
+                    "Entity2": " Win </kbd>",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "### Via GitHub",
+                    "Relationship": " is with ",
+                    "Entity2": " MSI Install",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " two types",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " previewed",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " two types of files",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " two types",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will enable ",
+                    "Entity2": " two types of files",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " will now enable ",
+                    "Entity2": " previewed",
+                    "Date": "2020-07-31 16:09:03",
+                    "Sha": "8fb095e2f46e67fd1220892161999209f82267c1",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "84055a420b9842ac2c14caf01bbd5d6de82fbf99": {
+            "date": "2020-09-02 19:26:35",
+            "additions": [
+                {
+                    "Entity 1": "StyleCop",
+                    "Relationship": " enabled ",
+                    "Entity2": " FxCop starting",
+                    "Date": "2020-09-02 19:26:35",
+                    "Sha": "84055a420b9842ac2c14caf01bbd5d6de82fbf99",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "StyleCop",
+                    "Relationship": " enabled ",
+                    "Entity2": " E2E",
+                    "Date": "2020-09-02 19:26:35",
+                    "Sha": "84055a420b9842ac2c14caf01bbd5d6de82fbf99",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "StyleCop",
+                    "Relationship": " enabled ",
+                    "Entity2": " FxCop",
+                    "Date": "2020-09-02 19:26:35",
+                    "Sha": "84055a420b9842ac2c14caf01bbd5d6de82fbf99",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Windows 10 1903",
+                    "Relationship": " is in ",
+                    "Entity2": " June timeframe",
+                    "Date": "2020-09-02 19:26:35",
+                    "Sha": "84055a420b9842ac2c14caf01bbd5d6de82fbf99",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Martin Chrzan",
+                    "Relationship": " has ",
+                    "Entity2": " Color Picker",
+                    "Date": "2020-09-02 19:26:35",
+                    "Sha": "84055a420b9842ac2c14caf01bbd5d6de82fbf99",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Martin Chrzan",
+                    "Relationship": " 's Picker is ",
+                    "Entity2": " https://github.com/martinchrzan/",
+                    "Date": "2020-09-02 19:26:35",
+                    "Sha": "84055a420b9842ac2c14caf01bbd5d6de82fbf99",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "b4223967e824a0fc658c6a143fd1fa6876388904": {
+            "date": "2020-09-04 17:39:50",
+            "additions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-09-04 17:39:50",
+                    "Sha": "b4223967e824a0fc658c6a143fd1fa6876388904",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5": {
+            "date": "2020-09-30 16:34:30",
+            "additions": [
+                {
+                    "Entity 1": "0.25",
+                    "Relationship": " should ",
+                    "Entity2": " should localized",
+                    "Date": "2020-09-30 16:34:30",
+                    "Sha": "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "0.25",
+                    "Relationship": " should ",
+                    "Entity2": " should localized now",
+                    "Date": "2020-09-30 16:34:30",
+                    "Sha": "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "StyleCop",
+                    "Relationship": " enabled ",
+                    "Entity2": " FxCop starting",
+                    "Date": "2020-09-30 16:34:30",
+                    "Sha": "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "StyleCop",
+                    "Relationship": " enabled ",
+                    "Entity2": " E2E",
+                    "Date": "2020-09-30 16:34:30",
+                    "Sha": "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "StyleCop",
+                    "Relationship": " enabled ",
+                    "Entity2": " FxCop",
+                    "Date": "2020-09-30 16:34:30",
+                    "Sha": "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Windows 10 1903",
+                    "Relationship": " is in ",
+                    "Entity2": " June timeframe",
+                    "Date": "2020-09-30 16:34:30",
+                    "Sha": "6711a6bc7eda525289f9d2e33f450cbf1e17e4d5",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "d1fad42ec30b38430e287277476817863784e7fa": {
+            "date": "2020-10-27 21:05:05",
+            "additions": [
+                {
+                    "Entity 1": "October",
+                    "Relationship": " was ",
+                    "Entity2": " focus on stability accessibility localization",
+                    "Date": "2020-10-27 21:05:05",
+                    "Sha": "d1fad42ec30b38430e287277476817863784e7fa",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "October",
+                    "Relationship": " was ",
+                    "Entity2": " focus",
+                    "Date": "2020-10-27 21:05:05",
+                    "Sha": "d1fad42ec30b38430e287277476817863784e7fa",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "0.25",
+                    "Relationship": " should ",
+                    "Entity2": " should localized now",
+                    "Date": "2020-10-27 21:05:05",
+                    "Sha": "d1fad42ec30b38430e287277476817863784e7fa",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "0.25",
+                    "Relationship": " should ",
+                    "Entity2": " should localized",
+                    "Date": "2020-10-27 21:05:05",
+                    "Sha": "d1fad42ec30b38430e287277476817863784e7fa",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "6d1cabaa9dd1b8a9832554a05a28184e32011869": {
+            "date": "2020-10-29 03:49:02",
+            "additions": [
+                {
+                    "Entity 1": "First",
+                    "Relationship": " pass on ",
+                    "Entity2": " localization complete",
+                    "Date": "2020-10-29 03:49:02",
+                    "Sha": "6d1cabaa9dd1b8a9832554a05a28184e32011869",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "First",
+                    "Relationship": " pass on ",
+                    "Entity2": " localization",
+                    "Date": "2020-10-29 03:49:02",
+                    "Sha": "6d1cabaa9dd1b8a9832554a05a28184e32011869",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "a2f3e7cccd139df5335ccf0f22cbde4e2490b017": {
+            "date": "2020-11-02 09:56:27",
+            "additions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-11-02 09:56:27",
+                    "Sha": "a2f3e7cccd139df5335ccf0f22cbde4e2490b017",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-11-02 09:56:27",
+                    "Sha": "a2f3e7cccd139df5335ccf0f22cbde4e2490b017",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "a66b276e7de3a33d1971c77e3c984a70a02e67df": {
+            "date": "2020-11-02 17:57:48",
+            "additions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-11-02 17:57:48",
+                    "Sha": "a66b276e7de3a33d1971c77e3c984a70a02e67df",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-11-02 17:57:48",
+                    "Sha": "a66b276e7de3a33d1971c77e3c984a70a02e67df",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "34030169cf0edb5f567b29caa9f2150adcf31c24": {
+            "date": "2020-11-30 23:14:08",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "First",
+                    "Relationship": " pass on ",
+                    "Entity2": " localization",
+                    "Date": "2020-11-30 23:14:08",
+                    "Sha": "34030169cf0edb5f567b29caa9f2150adcf31c24",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "First",
+                    "Relationship": " pass on ",
+                    "Entity2": " localization complete",
+                    "Date": "2020-11-30 23:14:08",
+                    "Sha": "34030169cf0edb5f567b29caa9f2150adcf31c24",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "d5542ad35e8642e877c3e41cc60eb706cca9fef9": {
+            "date": "2020-12-01 20:09:46",
+            "additions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-12-01 20:09:46",
+                    "Sha": "d5542ad35e8642e877c3e41cc60eb706cca9fef9",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-12-01 20:09:46",
+                    "Sha": "d5542ad35e8642e877c3e41cc60eb706cca9fef9",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "035a452900b3aaf435d04170d1f13cfc60fc1754": {
+            "date": "2020-12-01 20:24:22",
+            "additions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-12-01 20:24:22",
+                    "Sha": "035a452900b3aaf435d04170d1f13cfc60fc1754",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-12-01 20:24:22",
+                    "Sha": "035a452900b3aaf435d04170d1f13cfc60fc1754",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "f8a22cbdac5b497478cc7f21f33b1498dd031cc3": {
+            "date": "2020-12-18 00:11:08",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " feature",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is existing feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is ",
+                    "Entity2": " existing feature",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " perform ",
+                    "Entity2": " rename",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " calls into ",
+                    "Entity2": " Windows Explorer file operations engine",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Color Picker",
+                    "Relationship": " pick colors from ",
+                    "Entity2": " currently running application",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " search",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " allows ",
+                    "Entity2": " simple search",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Preview Pane",
+                    "Relationship": " is feature in ",
+                    "Entity2": " File Explorer",
+                    "Date": "2020-12-18 00:11:08",
+                    "Sha": "f8a22cbdac5b497478cc7f21f33b1498dd031cc3",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "ea83c0fe6b91ae483c6af73128d45ca29e749505": {
+            "date": "2020-12-29 20:55:23",
+            "additions": [
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " better piece of ",
+                    "Entity2": " software",
+                    "Date": "2020-12-29 20:55:23",
+                    "Sha": "ea83c0fe6b91ae483c6af73128d45ca29e749505",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " piece of ",
+                    "Entity2": " software",
+                    "Date": "2020-12-29 20:55:23",
+                    "Sha": "ea83c0fe6b91ae483c6af73128d45ca29e749505",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "28bbc8089ea5c339cfeb3d3f0613f256a7a42f17": {
+            "date": "2021-03-04 17:31:05",
+            "additions": [
+                {
+                    "Entity 1": "Stability",
+                    "Relationship": " is in ",
+                    "Entity2": " main release",
+                    "Date": "2021-03-04 17:31:05",
+                    "Sha": "28bbc8089ea5c339cfeb3d3f0613f256a7a42f17",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "6613522e534deb9b5fc9a649e6797cf177bb5d8b": {
+            "date": "2021-04-01 16:52:13",
+            "additions": [
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " run ",
+                    "Entity2": " command",
+                    "Date": "2021-04-01 16:52:13",
+                    "Sha": "6613522e534deb9b5fc9a649e6797cf177bb5d8b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Taskbar",
+                    "Relationship": " is ",
+                    "Entity2": " when vertical",
+                    "Date": "2021-04-01 16:52:13",
+                    "Sha": "6613522e534deb9b5fc9a649e6797cf177bb5d8b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Taskbar",
+                    "Relationship": " is ",
+                    "Entity2": " vertical",
+                    "Date": "2021-04-01 16:52:13",
+                    "Sha": "6613522e534deb9b5fc9a649e6797cf177bb5d8b",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "#### Highlights",
+                    "Relationship": " requiring ",
+                    "Entity2": " Windows 10 v1903",
+                    "Date": "2021-04-01 16:52:13",
+                    "Sha": "6613522e534deb9b5fc9a649e6797cf177bb5d8b",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "16d5a3efedf74919c90684c4151bcfd7f0d760f9": {
+            "date": "2021-04-29 19:07:38",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Taskbar",
+                    "Relationship": " is ",
+                    "Entity2": " vertical",
+                    "Date": "2021-04-29 19:07:38",
+                    "Sha": "16d5a3efedf74919c90684c4151bcfd7f0d760f9",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "#### Highlights",
+                    "Relationship": " requiring ",
+                    "Entity2": " Windows 10 v1903",
+                    "Date": "2021-04-29 19:07:38",
+                    "Sha": "16d5a3efedf74919c90684c4151bcfd7f0d760f9",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Taskbar",
+                    "Relationship": " is ",
+                    "Entity2": " when vertical",
+                    "Date": "2021-04-29 19:07:38",
+                    "Sha": "16d5a3efedf74919c90684c4151bcfd7f0d760f9",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "e5cb07729fdb3bd12f956360b7221b4d6223561a": {
+            "date": "2021-06-28 17:37:54",
+            "additions": [
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can now keep ",
+                    "Entity2": " their computer awake on-demand",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " keep ",
+                    "Entity2": " their computer",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " now keep awake ",
+                    "Entity2": " their computer",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can now keep ",
+                    "Entity2": " their computer on-demand",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can keep ",
+                    "Entity2": " their computer on-demand",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " keep awake ",
+                    "Entity2": " their computer",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " now keep ",
+                    "Entity2": " their computer",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can keep ",
+                    "Entity2": " their computer awake on-demand",
+                    "Date": "2021-06-28 17:37:54",
+                    "Sha": "e5cb07729fdb3bd12f956360b7221b4d6223561a",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "b84f9c93bfd96c77a777120ebdb688ea598243ec": {
+            "date": "2021-08-03 23:35:12",
+            "additions": [],
+            "deletions": [
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can now keep ",
+                    "Entity2": " their computer awake on-demand",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can keep ",
+                    "Entity2": " their computer on-demand",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can now keep ",
+                    "Entity2": " their computer on-demand",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " keep ",
+                    "Entity2": " their computer",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " now keep ",
+                    "Entity2": " their computer",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " keep awake ",
+                    "Entity2": " their computer",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "Power-Users",
+                    "Relationship": " can keep ",
+                    "Entity2": " their computer awake on-demand",
+                    "Date": "2021-08-03 23:35:12",
+                    "Sha": "b84f9c93bfd96c77a777120ebdb688ea598243ec",
+                    "Change": "deletion"
+                }
+            ]
+        },
+        "fd06c52decf8ac16184d8e2f7d7908936d3adab7": {
+            "date": "2021-09-02 18:52:06",
+            "additions": [
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " avoid ",
+                    "Entity2": " ambiguity",
+                    "Date": "2021-09-02 18:52:06",
+                    "Sha": "fd06c52decf8ac16184d8e2f7d7908936d3adab7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " was ",
+                    "Entity2": " when run as admin",
+                    "Date": "2021-09-02 18:52:06",
+                    "Sha": "fd06c52decf8ac16184d8e2f7d7908936d3adab7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " avoid ",
+                    "Entity2": " ambiguity in meaning",
+                    "Date": "2021-09-02 18:52:06",
+                    "Sha": "fd06c52decf8ac16184d8e2f7d7908936d3adab7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "Microsoft Docs",
+                    "Relationship": " release ",
+                    "Entity2": " PowerToys",
+                    "Date": "2021-09-02 18:52:06",
+                    "Sha": "fd06c52decf8ac16184d8e2f7d7908936d3adab7",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " crash ",
+                    "Entity2": " File Explorer",
+                    "Date": "2021-09-02 18:52:06",
+                    "Sha": "fd06c52decf8ac16184d8e2f7d7908936d3adab7",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": []
+        },
+        "5696f22951d07255feb127feb45f790af8864db4": {
+            "date": "2021-09-29 17:07:55",
+            "additions": [
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " now allows ",
+                    "Entity2": " various commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also now allows ",
+                    "Entity2": " commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also allows ",
+                    "Entity2": " commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " allows ",
+                    "Entity2": " various commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also now allows ",
+                    "Entity2": " various commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " now allows ",
+                    "Entity2": " commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " allows ",
+                    "Entity2": " commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also allows ",
+                    "Entity2": " commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also now allows ",
+                    "Entity2": " commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " now allows ",
+                    "Entity2": " various commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " allows ",
+                    "Entity2": " various commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also now allows ",
+                    "Entity2": " various commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also allows ",
+                    "Entity2": " various commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " allows ",
+                    "Entity2": " commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " now allows ",
+                    "Entity2": " commands in PowerToys Run",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " also allows ",
+                    "Entity2": " various commands",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "addition"
+                }
+            ],
+            "deletions": [
+                {
+                    "Entity 1": "Microsoft Docs",
+                    "Relationship": " release ",
+                    "Entity2": " PowerToys",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerRename",
+                    "Relationship": " crash ",
+                    "Entity2": " File Explorer",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " was ",
+                    "Entity2": " when run as admin",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " avoid ",
+                    "Entity2": " ambiguity in meaning",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "deletion"
+                },
+                {
+                    "Entity 1": "PowerToys",
+                    "Relationship": " avoid ",
+                    "Entity2": " ambiguity",
+                    "Date": "2021-09-29 17:07:55",
+                    "Sha": "5696f22951d07255feb127feb45f790af8864db4",
+                    "Change": "deletion"
+                }
+            ]
+        }
+    }
+}

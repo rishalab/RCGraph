@@ -9,7 +9,7 @@ from csv_utils import convert_to_json, clean_commits_csv, clean_readme_csv
 import os
 
 # using an access token
-g = Github("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")
+g = Github("")
 
 
 def kg_commits(repo,file_name):
@@ -23,7 +23,7 @@ def kg_commits(repo,file_name):
         commits_list.append(commit)
     print("Number of commits:",len(commits_list))
     commits_list.reverse()
-    index = 273
+    index = 0
     while index<len(commits_list):
         commit = commits_list[index]
         print("Commit: "+ str(index))
@@ -92,19 +92,17 @@ def kg_readme(repo,file_name):
    
 
 
-# 'javascript', 'java,html','python','php','ruby','css','c#','c++'
-languages = ['c']
+
+languages = ['javascript', 'java,html','python','php','ruby','css','c#','c++','c']
 for language in languages:
-    if language == 'python' or language == 'javascript':
-        continue
+
     print(language)
 
 
     repositories = g.search_repositories(query='language:'+language,sort='stars',order='desc')
-    repo = repositories[1]
+    repo = repositories[0]
     
-    if language == 'php':
-        repo = g.get_repo('jquery/testswarm')
+  
     print(repo.full_name)
     file_name = ""
     contents = repo.get_contents("")

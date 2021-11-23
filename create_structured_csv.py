@@ -70,7 +70,7 @@ def create_csv(commit_date,commit_sha, type, change):
             path = './data/result/' + file.split("/")[-1].split(".")[0] + "_"+type + '.csv'
             # print(path)
             processed_pd = pd.DataFrame(list(triplet))
-            print(processed_pd.head)
+            
             processed_pd.to_csv(path, encoding='utf-8', index=False, mode='a')
 
     #     print("Processed " + file.split("/")[-1])

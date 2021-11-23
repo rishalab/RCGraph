@@ -258,7 +258,7 @@ def construct_kg(text):
         # print("\nusing Spacy for NER\n")
         spacy_ner = SpacyNER()
         named_entities = spacy_ner.ner(doc)
-        spacy_ner.display(named_entities)
+        #spacy_ner.display(named_entities)
         named_entities = spacy_ner.ner_to_dict(named_entities)
 
         # for i in range(1,len(sys.argv)):

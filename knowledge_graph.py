@@ -218,9 +218,6 @@ def resolve_coreferences(doc,stanford_core_nlp_path,ner,verbose):
     return result
 
 def construct_kg(text):
-    # if len(sys.argv) == 1:
-    #     print("Usage:   python3 knowledge_graph.py <nltk/stanford/spacy> [optimized,verbose,nltk,stanford,spacy]")
-    #     return None
 
     verbose = False
     execute_coref_resol = False
@@ -236,11 +233,11 @@ def construct_kg(text):
     file_list = []
     for f in glob.glob('./data/input/*'):
         file_list.append(f)
-    # print(len(file_list))
+    
     for file in file_list:
-        # print(file)
+        
         with open(file,"r") as f:
-            # print(f.read())
+            
             lines = f.read().splitlines()
         
 
@@ -255,44 +252,17 @@ def construct_kg(text):
 
         named_entities = None
         
-        # print("\nusing Spacy for NER\n")
+        
         spacy_ner = SpacyNER()
         named_entities = spacy_ner.ner(doc)
-        #spacy_ner.display(named_entities)
+        
         named_entities = spacy_ner.ner_to_dict(named_entities)
 
-        # for i in range(1,len(sys.argv)):
-            
-        #     if(sys.argv[i] == "nltk"):
-        #         print("\nusing NLTK for NER")
-        #         nltk_ner = NltkNER()
-        #         named_entities = nltk_ner.ner(doc)
-        #         nltk_ner.display(named_entities)
-        #         # ToDo -- Implement ner_to_dict for nltk_ner
-        #         spacy_ner = SpacyNER()
-        #         named_entities = spacy_ner .ner_to_dict(spacy_ner.ner(doc))
-        #     elif(sys.argv[i]=="stanford"):
-        #         print("using Stanford for NER (may take a while):  \n\n\n")
-        #         stanford_ner = StanfordNER()
-        #         tagged = stanford_ner.ner(doc)
-        #         ner = stanford_ner.ner(doc)
-        #         stanford_ner.display(ner)
-        #         spacy_ner = SpacyNER()
-        #         # ToDo -- Implement ner_to_dict for stanford_ner
-        #         named_entities = spacy_ner.ner_to_dict(spacy_ner.ner(doc))
-        #     elif(sys.argv[i]=="spacy"):
-        #         print("\nusing Spacy for NER\n")
-        #         spacy_ner = SpacyNER()
-        #         named_entities = spacy_ner.ner(doc)
-        #         spacy_ner.display(named_entities)
-        #         named_entities = spacy_ner.ner_to_dict(named_entities)
-        #     elif(sys.argv[i]=="verbose"):
-        #         verbose = True
-        #     elif(sys.argv[i]=="optimized"):
-        #         execute_coref_resol = True
         
         # Save named entities
+        
         op_pickle_filename = ner_pickles_op + "named_entity_" + file.split('/')[-1].split('.')[0] + ".pickle"
+        
         with open(op_pickle_filename,"wb") as f:
             pickle.dump(named_entities, f)
 

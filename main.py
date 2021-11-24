@@ -10,7 +10,7 @@ from csv_utils import convert_to_json, clean_commits_csv, clean_readme_csv
 import os
 
 # using an access token
-g = Github("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")
+g = Github("")
 
 
 def kg_commits(repo,file_name):

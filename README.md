@@ -3,22 +3,21 @@
 ![iittp](https://user-images.githubusercontent.com/42757231/99178231-f3fb9300-2736-11eb-8942-0cde97e79d3b.png)
 
 # What is ReadmeTKG
-ReameTKG is a tool to construct Temporal Knowledge Graphs on the Readme file of a repository.
+ReadmeTKG is a tool to construct Temporal Knowledge Graph on the Readme file of a repository.
 
 # Usage of ReadmeTKG
 Readme files of the projects serves as an important source of information corresponding to the project such as the dependencies involved, methodology followed and so on. Assessing changes in readme files could provide insights on evolution of the project and consequently could help in modifying the underlying environment or dependencies to work with the project. Linking the readme files with time stamp of changes made to the readme files and further querying the linked data could help in assessing changes in readme files. Generating a temporal knowledge graph specific to readme files using ReadmeTKG could thus link the readme with temporal changes and consequently ease the querying of readme.
 
 # Working of ReadmeTKG
-The approach followed by API*Scanner* is summarized below:
-![Approach diagram](images/updated_process_diagram.PNG)
-1. In the current active editor, it extracts the import statements to identify the libraries being used in the current program.
-2. We then parse the soure code of library to generate Abstract Syntax Tree. 
-3.  Structure of AST helps to realize the relationship between class declaration and function definition with decorator, hard-coded warnings, and comments
-4. We then extract all the deprecated API elements declared using the above three methods.
-5. We, now highlight all the deprecated API elements in the VS Code Editor, by matching with list of deprecated API elements we generated.
+The approach followed ReadmeTKG is summarized below:
 
+![Approach diagram](ReadmeTKG_Approach.png)
 
-# What's inside ReadmeTKG Repository:
+ReadmeTKG constructs a Temporal Knowledge Graph on Readme File of a GitHub repository. It first constructs a Knowledge Graph on the present Readme file of the given repository. Then, individual Knowledge Graphs are constructed on changes made by each commit. These individual Knowledge Graphs are combined to obtain the commit based Knowledge Graph.
+
+![Example diagram](ReadmeTKG_Example.png)
+
+To construct a Temporal Knowledge Graph Tuple, the tuples present in Readme KG are mapped to equivalent tuple present in Commits KG. Using this mapping, the corresponding commit timestamp and commit SHA are extracted and embedded into the Readme KG tuple to construct the resultant Temporal KG tuple.
 
 
 # Steps to install ReadmeTKG

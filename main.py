@@ -27,7 +27,7 @@ def kg_commits(repo,file_name):
     while index<len(commits_list):
         commit = commits_list[index]       
         index=index+1
-        print("Processing Commit: ",index)
+        print("Processing Commit: ",index)    
         additions = ""
         deletions = ""
 

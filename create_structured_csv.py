@@ -13,7 +13,7 @@ def is_non_zero_file(fpath):
     return True
 
 def create_csv(commit_date,commit_sha, type, change):
-    # print("Creating CSV")
+    
      #create a list of pickle file names
     pickles = []
     for file in glob.glob(os.getcwd() + "/data/output/ner/*.pickle"):
@@ -34,10 +34,10 @@ def create_csv(commit_date,commit_sha, type, change):
         for str in file_name_list[1:]:
             file_name += '_'
             file_name += str
-            # print(file_name)
+            
 
         file_path = curr_dir +"/data/output/kg/"+file_name+".txt-out.csv"
-        # print(os.path.getsize(file_path))
+        
         if is_non_zero_file(file_path) is False:
             return
         df = None
@@ -46,7 +46,7 @@ def create_csv(commit_date,commit_sha, type, change):
         except pd.errors.EmptyDataError:
             df = pd.DataFrame()     
         
-        #print(df.head)
+        
         #parse every row present in the intermediate csv file
         triplet = set()
         for i,j in df.iterrows():
@@ -65,17 +65,12 @@ def create_csv(commit_date,commit_sha, type, change):
                     _ = (entities[j[0]], j[0], j[1] ,'O', j[2],commit_date, commit_sha, change)
                     triplet.add(_)
         #convert the pandas dataframe into csv
-        # print("Triplet Length: ", len(triplet))
+        
         if len(triplet) != 0:
             path = './data/result/' + file.split("/")[-1].split(".")[0] + "_"+type + '.csv'
-            # print(path)
+           
             processed_pd = pd.DataFrame(list(triplet))
             
             processed_pd.to_csv(path, encoding='utf-8', index=False, mode='a')
 
-    #     print("Processed " + file.split("/")[-1])
-
-    # print("Files processed and saved")
-
-# if __name__ == '__main__':
-#     main()
+   

@@ -27,7 +27,7 @@ A visual representation of an example scenario for a query on ReadmeTKG construc
 
 2. Get into the main directory:
 ```bash
-cd github-kg
+cd RCGraph
 ```
 
 3. Download stanford-core-nlp-4.3.0 from [this drive link](https://drive.google.com/drive/folders/13d2cUToCWODJ_BCRXeH2MW_4QdgWjUIm?usp=share_link). Place this folder in the root directory of this tool.

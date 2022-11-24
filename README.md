@@ -30,7 +30,7 @@ A visual representation of an example scenario for a query on ReadmeTKG construc
 cd github-kg
 ```
 
-3. Download standard-core-nlp-4.3.0 from [this drive link](https://drive.google.com/drive/u/0/folders/1WmS67_kypdYC6gCuK2MYif1a-gJX3TDE). Place this folder in the root directory of this tool.
+3. Download stanford-core-nlp-4.3.0 from [this drive link](https://drive.google.com/drive/folders/13d2cUToCWODJ_BCRXeH2MW_4QdgWjUIm?usp=share_link). Place this folder in the root directory of this tool.
 4. Create and activate a new python3 virtual environment:
 ```bash
 python(3) -m venv <path_to_env/env_name></path_to_env>

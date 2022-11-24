@@ -20,7 +20,7 @@ ReadmeTKG constructs a Temporal Knowledge Graph on Readme File of a GitHub repos
 To construct a Temporal Knowledge Graph Tuple, the tuples present in Readme KG are mapped to equivalent tuple present in Commits KG. Using this mapping, the corresponding commit timestamp and commit SHA are extracted and embedded into the Readme KG tuple to construct the resultant Temporal KG tuple.
 
 A visual representation of an example scenario for a query on ReadmeTKG constructed for Microsoft/PowerToys repository is presented below. The requirement is to obtain information about the timestamp from when the PowerToys has started allowing various commands, for which the query- 'select timestamp where entity1 = "PowerToys" and relation = "allows" and entity2 = "various commands in PowerToys Run" ' applied on the TKG, which resulted in  the timestamp - `2021-09-21 17:07:55'
-![UseCase](ReadmeTKG_Case1.png)
+![UseCase](RTKG_usecase.png)
 
 # Steps to install ReadmeTKG
 1. Clone or download this github repository.
